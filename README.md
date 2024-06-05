@@ -14,3 +14,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1185-find-in-mountain-array](https://github.com/Shivendra-11/leetcode-1295/tree/master/1185-find-in-mountain-array) |
+# String
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Shivendra-11/leetcode-1295/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+# Greedy
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Shivendra-11/leetcode-1295/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+# Enumeration
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Shivendra-11/leetcode-1295/tree/master/2337-remove-digit-from-number-to-maximize-result) |
