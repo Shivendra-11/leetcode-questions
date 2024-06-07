@@ -45,3 +45,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0410-split-array-largest-sum) |
+# Math
+|  |
+| ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/Shivendra-11/leetcode-1295/tree/master/2288-count-operations-to-obtain-zero) |
+# Simulation
+|  |
+| ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/Shivendra-11/leetcode-1295/tree/master/2288-count-operations-to-obtain-zero) |
