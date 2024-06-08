@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivendra-11/leetcode-1295/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0410-split-array-largest-sum) |
+| [0523-continuous-subarray-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0523-continuous-subarray-sum) |
 | [1044-find-common-characters](https://github.com/Shivendra-11/leetcode-1295/tree/master/1044-find-common-characters) |
 | [1185-find-in-mountain-array](https://github.com/Shivendra-11/leetcode-1295/tree/master/1185-find-in-mountain-array) |
 # Binary Search
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0523-continuous-subarray-sum) |
 | [1044-find-common-characters](https://github.com/Shivendra-11/leetcode-1295/tree/master/1044-find-common-characters) |
 # Dynamic Programming
 |  |
@@ -45,9 +47,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0410-split-array-largest-sum) |
+| [0523-continuous-subarray-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0523-continuous-subarray-sum) |
 # Math
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0523-continuous-subarray-sum) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Shivendra-11/leetcode-1295/tree/master/2288-count-operations-to-obtain-zero) |
 # Simulation
 |  |
