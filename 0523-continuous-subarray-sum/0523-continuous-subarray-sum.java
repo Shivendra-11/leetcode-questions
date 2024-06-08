@@ -1,42 +1,35 @@
 import java.util.HashMap;
+import java.util.Map;
 
 class Solution {
     public boolean checkSubarraySum(int[] nums, int k) {
-        // Handle the special case when k is zero separately
-        if (k == 0) {
-            // Check if there are at least two consecutive zeros
-            for (int i = 0; i < nums.length - 1; i++) {
-                if (nums[i] == 0 && nums[i + 1] == 0) {
-                    return true;
-                }
-            }
-            return false;
-        }
-
-        // HashMap to store the remainder of the cumulative sum divided by k
-        HashMap<Integer, Integer> remainderMap = new HashMap<>();
-        remainderMap.put(0, -1); // Initialize with remainder 0 at index -1
-
-        int cumulativeSum = 0;
+        // Hash map to store the first occurrence of each remainder
+        Map<Integer, Integer> remainderMap = new HashMap<>();
+        // Initialize with remainder 0 at index -1 to handle the case of subarray starting at index 0
+        remainderMap.put(0, -1);
+        
+        int prefixSum = 0;
+        
         for (int i = 0; i < nums.length; i++) {
-            cumulativeSum += nums[i];
-            int remainder = cumulativeSum % k;
+            prefixSum += nums[i];
+            int remainder = prefixSum % k;
             
-            // Adjust remainder to handle negative values
+            // Adjust remainder to be positive if it's negative (Java's % can return negative)
             if (remainder < 0) {
                 remainder += k;
             }
-
+            
             if (remainderMap.containsKey(remainder)) {
-                // Check if the subarray length is at least 2
+                // If the same remainder has been seen before, check the subarray length
                 if (i - remainderMap.get(remainder) > 1) {
                     return true;
                 }
             } else {
+                // Store the index of the first occurrence of this remainder
                 remainderMap.put(remainder, i);
             }
         }
-
+        
         return false;
     }
 }
