@@ -15,9 +15,9 @@ class Solution {
             int remainder = prefixSum % k;
             
             // Adjust remainder to be positive if it's negative (Java's % can return negative)
-            if (remainder < 0) {
-                remainder += k;
-            }
+            // if (remainder < 0) {
+            //     remainder += k;
+            // }
             
             if (remainderMap.containsKey(remainder)) {
                 // If the same remainder has been seen before, check the subarray length
