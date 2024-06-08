@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivendra-11/leetcode-1295/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Shivendra-11/leetcode-1295/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0523-continuous-subarray-sum) |
 | [1044-find-common-characters](https://github.com/Shivendra-11/leetcode-1295/tree/master/1044-find-common-characters) |
@@ -14,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivendra-11/leetcode-1295/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Shivendra-11/leetcode-1295/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0410-split-array-largest-sum) |
 | [1185-find-in-mountain-array](https://github.com/Shivendra-11/leetcode-1295/tree/master/1185-find-in-mountain-array) |
 # Interactive
@@ -37,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Shivendra-11/leetcode-1295/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0523-continuous-subarray-sum) |
 | [1044-find-common-characters](https://github.com/Shivendra-11/leetcode-1295/tree/master/1044-find-common-characters) |
 # Dynamic Programming
@@ -51,9 +54,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Shivendra-11/leetcode-1295/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0523-continuous-subarray-sum) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Shivendra-11/leetcode-1295/tree/master/2288-count-operations-to-obtain-zero) |
 # Simulation
 |  |
 | ------- |
 | [2288-count-operations-to-obtain-zero](https://github.com/Shivendra-11/leetcode-1295/tree/master/2288-count-operations-to-obtain-zero) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Shivendra-11/leetcode-1295/tree/master/0268-missing-number) |
+# Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Shivendra-11/leetcode-1295/tree/master/0268-missing-number) |
