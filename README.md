@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shivendra-11/leetcode-1295/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0523-continuous-subarray-sum) |
+| [0645-set-mismatch](https://github.com/Shivendra-11/leetcode-1295/tree/master/0645-set-mismatch) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Shivendra-11/leetcode-1295/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Shivendra-11/leetcode-1295/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/Shivendra-11/leetcode-1295/tree/master/1137-height-checker) |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Shivendra-11/leetcode-1295/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shivendra-11/leetcode-1295/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0523-continuous-subarray-sum) |
+| [0645-set-mismatch](https://github.com/Shivendra-11/leetcode-1295/tree/master/0645-set-mismatch) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Shivendra-11/leetcode-1295/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Shivendra-11/leetcode-1295/tree/master/1044-find-common-characters) |
 # Dynamic Programming
@@ -76,10 +78,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0268-missing-number](https://github.com/Shivendra-11/leetcode-1295/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shivendra-11/leetcode-1295/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/Shivendra-11/leetcode-1295/tree/master/0645-set-mismatch) |
 # Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shivendra-11/leetcode-1295/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Shivendra-11/leetcode-1295/tree/master/0645-set-mismatch) |
 | [1137-height-checker](https://github.com/Shivendra-11/leetcode-1295/tree/master/1137-height-checker) |
 # Counting Sort
 |  |
