@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivendra-11/leetcode-1295/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivendra-11/leetcode-1295/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Shivendra-11/leetcode-1295/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Shivendra-11/leetcode-1295/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Shivendra-11/leetcode-1295/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivendra-11/leetcode-1295/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Shivendra-11/leetcode-1295/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Shivendra-11/leetcode-1295/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0410-split-array-largest-sum) |
 | [1185-find-in-mountain-array](https://github.com/Shivendra-11/leetcode-1295/tree/master/1185-find-in-mountain-array) |
 # Interactive
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shivendra-11/leetcode-1295/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Shivendra-11/leetcode-1295/tree/master/0287-find-the-duplicate-number) |
 # Sorting
 |  |
 | ------- |
@@ -84,4 +87,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivendra-11/leetcode-1295/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Shivendra-11/leetcode-1295/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shivendra-11/leetcode-1295/tree/master/0345-reverse-vowels-of-a-string) |
