@@ -25,7 +25,7 @@ class Solution {
         }
         
         // Remove the trailing space if there is one
-        return new String(charArray, 0, r > 0 && charArray[r - 1] == ' ' ? r - 1 : r);
+        return new String(charArray, 0,  charArray[r - 1] == ' ' ? r - 1 : r);
     }
 
     private void reverse(char[] arr, int start, int end) {
