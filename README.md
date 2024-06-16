@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivendra-11/leetcode-1295/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Shivendra-11/leetcode-1295/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shivendra-11/leetcode-1295/tree/master/0287-find-the-duplicate-number) |
+| [0330-patching-array](https://github.com/Shivendra-11/leetcode-1295/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shivendra-11/leetcode-1295/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0523-continuous-subarray-sum) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/Shivendra-11/leetcode-1295/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0410-split-array-largest-sum) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Shivendra-11/leetcode-1295/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Shivendra-11/leetcode-1295/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
