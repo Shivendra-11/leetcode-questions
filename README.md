@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Shivendra-11/leetcode-1295/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shivendra-11/leetcode-1295/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0410-split-array-largest-sum) |
+| [0633-sum-of-square-numbers](https://github.com/Shivendra-11/leetcode-1295/tree/master/0633-sum-of-square-numbers) |
 | [1185-find-in-mountain-array](https://github.com/Shivendra-11/leetcode-1295/tree/master/1185-find-in-mountain-array) |
 # Interactive
 |  |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0268-missing-number](https://github.com/Shivendra-11/leetcode-1295/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/Shivendra-11/leetcode-1295/tree/master/0633-sum-of-square-numbers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Shivendra-11/leetcode-1295/tree/master/2288-count-operations-to-obtain-zero) |
 # Simulation
 |  |
@@ -111,3 +113,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Shivendra-11/leetcode-1295/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Shivendra-11/leetcode-1295/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shivendra-11/leetcode-1295/tree/master/0345-reverse-vowels-of-a-string) |
+| [0633-sum-of-square-numbers](https://github.com/Shivendra-11/leetcode-1295/tree/master/0633-sum-of-square-numbers) |
