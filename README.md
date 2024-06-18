@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Shivendra-11/leetcode-1295/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shivendra-11/leetcode-1295/tree/master/0345-reverse-vowels-of-a-string) |
 | [1044-find-common-characters](https://github.com/Shivendra-11/leetcode-1295/tree/master/1044-find-common-characters) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Shivendra-11/leetcode-1295/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Shivendra-11/leetcode-1295/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 # Greedy
 |  |
@@ -121,4 +122,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/Shivendra-11/leetcode-1295/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/Shivendra-11/leetcode-1295/tree/master/0633-sum-of-square-numbers) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivendra-11/leetcode-1295/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Shivendra-11/leetcode-1295/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Shivendra-11/leetcode-1295/tree/master/1988-minimize-maximum-pair-sum-in-array) |
