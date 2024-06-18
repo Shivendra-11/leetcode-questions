@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/Shivendra-11/leetcode-1295/tree/master/1137-height-checker) |
 | [1185-find-in-mountain-array](https://github.com/Shivendra-11/leetcode-1295/tree/master/1185-find-in-mountain-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivendra-11/leetcode-1295/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Shivendra-11/leetcode-1295/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Shivendra-11/leetcode-1295/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Binary Search
 |  |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0330-patching-array](https://github.com/Shivendra-11/leetcode-1295/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0410-split-array-largest-sum) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Shivendra-11/leetcode-1295/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Shivendra-11/leetcode-1295/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Shivendra-11/leetcode-1295/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Shivendra-11/leetcode-1295/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 # Enumeration
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Shivendra-11/leetcode-1295/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Shivendra-11/leetcode-1295/tree/master/1137-height-checker) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivendra-11/leetcode-1295/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Shivendra-11/leetcode-1295/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Shivendra-11/leetcode-1295/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting Sort
 |  |
@@ -118,3 +121,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/Shivendra-11/leetcode-1295/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/Shivendra-11/leetcode-1295/tree/master/0633-sum-of-square-numbers) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivendra-11/leetcode-1295/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Shivendra-11/leetcode-1295/tree/master/1988-minimize-maximum-pair-sum-in-array) |
