@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-find-common-characters](https://github.com/Shivendra-11/leetcode-1295/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/Shivendra-11/leetcode-1295/tree/master/1137-height-checker) |
 | [1185-find-in-mountain-array](https://github.com/Shivendra-11/leetcode-1295/tree/master/1185-find-in-mountain-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Shivendra-11/leetcode-1295/tree/master/1370-count-number-of-nice-subarrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivendra-11/leetcode-1295/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Shivendra-11/leetcode-1295/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Shivendra-11/leetcode-1295/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Shivendra-11/leetcode-1295/tree/master/0645-set-mismatch) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Shivendra-11/leetcode-1295/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Shivendra-11/leetcode-1295/tree/master/1044-find-common-characters) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Shivendra-11/leetcode-1295/tree/master/1370-count-number-of-nice-subarrays) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Shivendra-11/leetcode-1295/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Shivendra-11/leetcode-1295/tree/master/0633-sum-of-square-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Shivendra-11/leetcode-1295/tree/master/1370-count-number-of-nice-subarrays) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Shivendra-11/leetcode-1295/tree/master/2288-count-operations-to-obtain-zero) |
 # Simulation
 |  |
@@ -127,3 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivendra-11/leetcode-1295/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Shivendra-11/leetcode-1295/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Shivendra-11/leetcode-1295/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+# Sliding Window
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/Shivendra-11/leetcode-1295/tree/master/1370-count-number-of-nice-subarrays) |
