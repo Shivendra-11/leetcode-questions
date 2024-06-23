@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2058-concatenation-of-array](https://github.com/Shivendra-11/leetcode-1295/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Shivendra-11/leetcode-1295/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Shivendra-11/leetcode-1295/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2561-number-of-distinct-averages](https://github.com/Shivendra-11/leetcode-1295/tree/master/2561-number-of-distinct-averages) |
 # Binary Search
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1016-subarray-sums-divisible-by-k](https://github.com/Shivendra-11/leetcode-1295/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Shivendra-11/leetcode-1295/tree/master/1044-find-common-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shivendra-11/leetcode-1295/tree/master/1370-count-number-of-nice-subarrays) |
+| [2561-number-of-distinct-averages](https://github.com/Shivendra-11/leetcode-1295/tree/master/2561-number-of-distinct-averages) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -117,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivendra-11/leetcode-1295/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Shivendra-11/leetcode-1295/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Shivendra-11/leetcode-1295/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2561-number-of-distinct-averages](https://github.com/Shivendra-11/leetcode-1295/tree/master/2561-number-of-distinct-averages) |
 # Counting Sort
 |  |
 | ------- |
@@ -135,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivendra-11/leetcode-1295/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Shivendra-11/leetcode-1295/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Shivendra-11/leetcode-1295/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2561-number-of-distinct-averages](https://github.com/Shivendra-11/leetcode-1295/tree/master/2561-number-of-distinct-averages) |
 # Sliding Window
 |  |
 | ------- |
