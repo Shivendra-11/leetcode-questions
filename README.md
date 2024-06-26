@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shivendra-11/leetcode-1295/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Shivendra-11/leetcode-1295/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Shivendra-11/leetcode-1295/tree/master/0645-set-mismatch) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Shivendra-11/leetcode-1295/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Shivendra-11/leetcode-1295/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Shivendra-11/leetcode-1295/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shivendra-11/leetcode-1295/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Shivendra-11/leetcode-1295/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Shivendra-11/leetcode-1295/tree/master/0645-set-mismatch) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Shivendra-11/leetcode-1295/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Shivendra-11/leetcode-1295/tree/master/1044-find-common-characters) |
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Shivendra-11/leetcode-1295/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Shivendra-11/leetcode-1295/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Shivendra-11/leetcode-1295/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 # Math
