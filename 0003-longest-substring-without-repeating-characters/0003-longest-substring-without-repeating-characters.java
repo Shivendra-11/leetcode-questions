@@ -14,8 +14,9 @@ class Solution {
 
             }
             arr[s.charAt(r)]=true;
+            
+            maxlen=Math.max(maxlen,r-l+1);
             r++;
-            maxlen=Math.max(maxlen,r-l);
         }
         
         return maxlen;
