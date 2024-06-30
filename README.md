@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivendra-11/leetcode-1295/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Shivendra-11/leetcode-1295/tree/master/0713-subarray-product-less-than-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Shivendra-11/leetcode-1295/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivendra-11/leetcode-1295/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Shivendra-11/leetcode-1295/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2714-left-and-right-sum-differences](https://github.com/Shivendra-11/leetcode-1295/tree/master/2714-left-and-right-sum-differences) |
@@ -177,5 +179,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Shivendra-11/leetcode-1295/tree/master/0713-subarray-product-less-than-k) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
