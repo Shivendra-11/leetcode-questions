@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Shivendra-11/leetcode-1295/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Shivendra-11/leetcode-1295/tree/master/0713-subarray-product-less-than-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Shivendra-11/leetcode-1295/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1511-count-number-of-teams](https://github.com/Shivendra-11/leetcode-1295/tree/master/1511-count-number-of-teams) |
 | [2714-left-and-right-sum-differences](https://github.com/Shivendra-11/leetcode-1295/tree/master/2714-left-and-right-sum-differences) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shivendra-11/leetcode-1295/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
@@ -192,4 +193,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0209-minimum-size-subarray-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/Shivendra-11/leetcode-1295/tree/master/1511-count-number-of-teams) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/Shivendra-11/leetcode-1295/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
