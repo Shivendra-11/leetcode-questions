@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1016-subarray-sums-divisible-by-k](https://github.com/Shivendra-11/leetcode-1295/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1511-count-number-of-teams](https://github.com/Shivendra-11/leetcode-1295/tree/master/1511-count-number-of-teams) |
 | [1651-shuffle-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/1651-shuffle-string) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Shivendra-11/leetcode-1295/tree/master/2714-left-and-right-sum-differences) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shivendra-11/leetcode-1295/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/Shivendra-11/leetcode-1295/tree/master/0041-first-missing-positive) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivendra-11/leetcode-1295/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Shivendra-11/leetcode-1295/tree/master/1016-subarray-sums-divisible-by-k) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shivendra-11/leetcode-1295/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sliding Window
 |  |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0841-shortest-distance-to-a-character](https://github.com/Shivendra-11/leetcode-questions/tree/master/0841-shortest-distance-to-a-character) |
 | [1651-shuffle-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/1651-shuffle-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Shivendra-11/leetcode-questions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2163-kth-distinct-string-in-an-array) |
 ## String Matching
 |  |
 | ------- |
@@ -224,4 +227,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Shivendra-11/leetcode-questions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+## Counting
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2163-kth-distinct-string-in-an-array) |
 <!---LeetCode Topics End-->
