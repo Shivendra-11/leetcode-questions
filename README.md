@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0841-shortest-distance-to-a-character](https://github.com/Shivendra-11/leetcode-questions/tree/master/0841-shortest-distance-to-a-character) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Shivendra-11/leetcode-1295/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1511-count-number-of-teams](https://github.com/Shivendra-11/leetcode-1295/tree/master/1511-count-number-of-teams) |
+| [1651-shuffle-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/1651-shuffle-string) |
 | [2714-left-and-right-sum-differences](https://github.com/Shivendra-11/leetcode-1295/tree/master/2714-left-and-right-sum-differences) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shivendra-11/leetcode-1295/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Shivendra-11/leetcode-questions/tree/master/0841-shortest-distance-to-a-character) |
+| [1651-shuffle-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/1651-shuffle-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Shivendra-11/leetcode-questions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## String Matching
 |  |
