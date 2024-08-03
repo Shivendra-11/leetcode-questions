@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Shivendra-11/leetcode-1295/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Shivendra-11/leetcode-1295/tree/master/0041-first-missing-positive) |
+| [0409-longest-palindrome](https://github.com/Shivendra-11/leetcode-questions/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivendra-11/leetcode-1295/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Shivendra-11/leetcode-1295/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Shivendra-11/leetcode-questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0409-longest-palindrome](https://github.com/Shivendra-11/leetcode-questions/tree/master/0409-longest-palindrome) |
 | [0841-shortest-distance-to-a-character](https://github.com/Shivendra-11/leetcode-questions/tree/master/0841-shortest-distance-to-a-character) |
 | [1651-shuffle-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/1651-shuffle-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Shivendra-11/leetcode-questions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -242,4 +244,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Shivendra-11/leetcode-questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/Shivendra-11/leetcode-questions/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
