@@ -1339,9 +1339,14 @@ cyBFbmQtLT4=
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Shivendra-11/leetcode-questions/tree/master/0027-remove-element) |
 | [2727-number-of-senior-citizens](https://github.com/Shivendra-11/leetcode-questions/tree/master/2727-number-of-senior-citizens) |
 ## String
 |  |
 | ------- |
 | [2727-number-of-senior-citizens](https://github.com/Shivendra-11/leetcode-questions/tree/master/2727-number-of-senior-citizens) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Shivendra-11/leetcode-questions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
