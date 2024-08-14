@@ -1359,4 +1359,12 @@ cyBFbmQtLT4=
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2163-kth-distinct-string-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Shivendra-11/leetcode-questions/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Shivendra-11/leetcode-questions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
