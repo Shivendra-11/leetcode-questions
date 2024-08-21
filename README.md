@@ -1346,6 +1346,7 @@ cyBFbmQtLT4=
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shivendra-11/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2727-number-of-senior-citizens](https://github.com/Shivendra-11/leetcode-questions/tree/master/2727-number-of-senior-citizens) |
@@ -1357,6 +1358,7 @@ cyBFbmQtLT4=
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shivendra-11/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Counting
 |  |
@@ -1365,6 +1367,7 @@ cyBFbmQtLT4=
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shivendra-11/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Shivendra-11/leetcode-questions/tree/master/0050-powx-n) |
 ## Recursion
 |  |
