@@ -1343,6 +1343,7 @@ cyBFbmQtLT4=
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2727-number-of-senior-citizens](https://github.com/Shivendra-11/leetcode-questions/tree/master/2727-number-of-senior-citizens) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 ## String
 |  |
 | ------- |
@@ -1360,10 +1361,12 @@ cyBFbmQtLT4=
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shivendra-11/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 ## Counting
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 ## Math
 |  |
 | ------- |
