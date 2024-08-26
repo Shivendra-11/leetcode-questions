@@ -1340,6 +1340,7 @@ cyBFbmQtLT4=
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Shivendra-11/leetcode-questions/tree/master/0027-remove-element) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Shivendra-11/leetcode-questions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1651-shuffle-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/1651-shuffle-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -1362,6 +1363,7 @@ cyBFbmQtLT4=
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shivendra-11/leetcode-questions/tree/master/0013-roman-to-integer) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Shivendra-11/leetcode-questions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 ## Counting
@@ -1378,4 +1380,8 @@ cyBFbmQtLT4=
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shivendra-11/leetcode-questions/tree/master/0050-powx-n) |
+## Prefix Sum
+|  |
+| ------- |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Shivendra-11/leetcode-questions/tree/master/1016-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->

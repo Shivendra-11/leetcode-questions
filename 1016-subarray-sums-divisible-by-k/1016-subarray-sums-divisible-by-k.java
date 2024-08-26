@@ -1,27 +1,30 @@
-import java.util.HashMap;
-
 class Solution {
     public int subarraysDivByK(int[] nums, int k) {
-            HashMap<Integer, Integer> prefix = new HashMap<>();
-                    prefix.put(0, 1); // Initialize with 0 to count subarrays starting from index 0
 
-                            int sum = 0;
-                                    int count = 0;
+          HashMap<Integer, Integer> prefix = new HashMap<>();
 
-                                            for (int num : nums) {
-                                                        sum += num;
-                                                                    int rem = sum % k;
-                                                                                if (rem < 0) {
-                                                                                                rem += k;
-                                                                                                            }
+        int sum = 0;
+        int count = 0;
+    prefix.put(0,1);
+        for (int num : nums) {
+            sum += num;
+            int rem = sum % k;
 
-                                                                                                                        if (prefix.containsKey(rem)) {
-                                                                                                                                        count += prefix.get(rem);
-                                                                                                                                                    }
 
-                                                                                                                                                                prefix.put(rem, prefix.getOrDefault(rem, 0) + 1);
-                                                                                                                                                                        }
+            if(rem<0){
+                rem=rem+k;
+            }
 
-                                                                                                                                                                                return count;
-                                                                                                                                                                                    }
-                                                                                                                                                                                    }
+            if(prefix.containsKey(rem)){
+                count +=prefix.get(rem);
+                prefix .put(rem,prefix.get(rem)+1);
+            }
+            else{
+                prefix.put(rem,1);
+            }
+        }
+
+        return count;
+
+    }
+}
