@@ -1341,6 +1341,7 @@ cyBFbmQtLT4=
 | ------- |
 | [0027-remove-element](https://github.com/Shivendra-11/leetcode-questions/tree/master/0027-remove-element) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Shivendra-11/leetcode-questions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Shivendra-11/leetcode-questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1651-shuffle-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/1651-shuffle-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -1358,6 +1359,7 @@ cyBFbmQtLT4=
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Shivendra-11/leetcode-questions/tree/master/0027-remove-element) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Shivendra-11/leetcode-questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
@@ -1384,4 +1386,12 @@ cyBFbmQtLT4=
 |  |
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Shivendra-11/leetcode-questions/tree/master/1016-subarray-sums-divisible-by-k) |
+## Binary Search
+|  |
+| ------- |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Shivendra-11/leetcode-questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+## Sorting
+|  |
+| ------- |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Shivendra-11/leetcode-questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 <!---LeetCode Topics End-->

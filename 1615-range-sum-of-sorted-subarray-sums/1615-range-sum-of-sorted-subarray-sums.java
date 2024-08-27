@@ -22,7 +22,7 @@ class Solution {
         int sum_res = 0;
         for (int k = left - 1; k < right; k++) {
             sum_res += arr[k];
-            sum_res %= 1_000_000_007;  // Apply modulus operation here to avoid overflow
+            sum_res %= 1_000_000_007;  
         }
 
         return sum_res;
