@@ -1,6 +1,7 @@
 class Solution {
     public int numSubseq(int[] nums, int target) {
-        int M = 1_000_000_007;
+
+         int M = 1_000_000_007;
         Arrays.sort(nums);
         int l = 0;
         int r = nums.length - 1;
@@ -22,5 +23,6 @@ class Solution {
         }
 
         return result;
+        
     }
 }
