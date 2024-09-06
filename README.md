@@ -1340,6 +1340,7 @@ cyBFbmQtLT4=
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Shivendra-11/leetcode-questions/tree/master/0027-remove-element) |
+| [0792-binary-search](https://github.com/Shivendra-11/leetcode-questions/tree/master/0792-binary-search) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Shivendra-11/leetcode-questions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Shivendra-11/leetcode-questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivendra-11/leetcode-questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -1393,6 +1394,7 @@ cyBFbmQtLT4=
 ## Binary Search
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/Shivendra-11/leetcode-questions/tree/master/0792-binary-search) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Shivendra-11/leetcode-questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivendra-11/leetcode-questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Sorting
