@@ -1383,6 +1383,7 @@ cyBFbmQtLT4=
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shivendra-11/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Shivendra-11/leetcode-questions/tree/master/0050-powx-n) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shivendra-11/leetcode-questions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -1411,4 +1412,8 @@ cyBFbmQtLT4=
 | ------- |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Shivendra-11/leetcode-questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2132-convert-1d-array-into-2d-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shivendra-11/leetcode-questions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
