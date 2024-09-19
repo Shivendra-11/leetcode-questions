@@ -1393,6 +1393,7 @@ cyBFbmQtLT4=
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shivendra-11/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Shivendra-11/leetcode-questions/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Shivendra-11/leetcode-questions/tree/master/0069-sqrtx) |
 | [0539-minimum-time-difference](https://github.com/Shivendra-11/leetcode-questions/tree/master/0539-minimum-time-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shivendra-11/leetcode-questions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Shivendra-11/leetcode-questions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -1409,6 +1410,7 @@ cyBFbmQtLT4=
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Shivendra-11/leetcode-questions/tree/master/0069-sqrtx) |
 | [0792-binary-search](https://github.com/Shivendra-11/leetcode-questions/tree/master/0792-binary-search) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Shivendra-11/leetcode-questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivendra-11/leetcode-questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
