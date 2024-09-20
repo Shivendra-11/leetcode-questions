@@ -1355,6 +1355,7 @@ cyBFbmQtLT4=
 | [2727-number-of-senior-citizens](https://github.com/Shivendra-11/leetcode-questions/tree/master/2727-number-of-senior-citizens) |
 | [3311-ant-on-the-boundary](https://github.com/Shivendra-11/leetcode-questions/tree/master/3311-ant-on-the-boundary) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shivendra-11/leetcode-questions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
 |  |
 | ------- |
@@ -1397,6 +1398,7 @@ cyBFbmQtLT4=
 | [0539-minimum-time-difference](https://github.com/Shivendra-11/leetcode-questions/tree/master/0539-minimum-time-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shivendra-11/leetcode-questions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Shivendra-11/leetcode-questions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shivendra-11/leetcode-questions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Recursion
 |  |
 | ------- |
