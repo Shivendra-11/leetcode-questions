@@ -1342,6 +1342,7 @@ cyBFbmQtLT4=
 | [0027-remove-element](https://github.com/Shivendra-11/leetcode-questions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Shivendra-11/leetcode-questions/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Shivendra-11/leetcode-questions/tree/master/0539-minimum-time-difference) |
 | [0792-binary-search](https://github.com/Shivendra-11/leetcode-questions/tree/master/0792-binary-search) |
@@ -1379,6 +1380,7 @@ cyBFbmQtLT4=
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Shivendra-11/leetcode-questions/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Shivendra-11/leetcode-questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivendra-11/leetcode-questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -1423,6 +1425,7 @@ cyBFbmQtLT4=
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Shivendra-11/leetcode-questions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/Shivendra-11/leetcode-questions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Shivendra-11/leetcode-questions/tree/master/0907-koko-eating-bananas) |
