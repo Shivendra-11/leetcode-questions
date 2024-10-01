@@ -1363,6 +1363,7 @@ cyBFbmQtLT4=
 | [3311-ant-on-the-boundary](https://github.com/Shivendra-11/leetcode-questions/tree/master/3311-ant-on-the-boundary) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shivendra-11/leetcode-questions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3541-report-spam-message](https://github.com/Shivendra-11/leetcode-questions/tree/master/3541-report-spam-message) |
 ## String
 |  |
 | ------- |
@@ -1376,6 +1377,7 @@ cyBFbmQtLT4=
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2727-number-of-senior-citizens](https://github.com/Shivendra-11/leetcode-questions/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/Shivendra-11/leetcode-questions/tree/master/3194-find-words-containing-character) |
+| [3541-report-spam-message](https://github.com/Shivendra-11/leetcode-questions/tree/master/3541-report-spam-message) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1392,6 +1394,7 @@ cyBFbmQtLT4=
 | [1016-subarray-sums-divisible-by-k](https://github.com/Shivendra-11/leetcode-questions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
+| [3541-report-spam-message](https://github.com/Shivendra-11/leetcode-questions/tree/master/3541-report-spam-message) |
 ## Counting
 |  |
 | ------- |
