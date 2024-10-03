@@ -5,6 +5,7 @@ made changes
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Shivendra-11/leetcode-questions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Shivendra-11/leetcode-questions/tree/master/0053-maximum-subarray) |
 ## Divide and Conquer
 |  |
@@ -14,4 +15,8 @@ made changes
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shivendra-11/leetcode-questions/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Shivendra-11/leetcode-questions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
