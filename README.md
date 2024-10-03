@@ -6,6 +6,7 @@ made changes
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Shivendra-11/leetcode-questions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Shivendra-11/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shivendra-11/leetcode-questions/tree/master/0053-maximum-subarray) |
 ## Divide and Conquer
 |  |
@@ -14,9 +15,22 @@ made changes
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shivendra-11/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shivendra-11/leetcode-questions/tree/master/0053-maximum-subarray) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Shivendra-11/leetcode-questions/tree/master/0035-search-insert-position) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Shivendra-11/leetcode-questions/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Shivendra-11/leetcode-questions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Shivendra-11/leetcode-questions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
