@@ -5,14 +5,14 @@ class Solution {
         while (i < j) {
             int sum = numbers[i] + numbers[j];
             if (sum == target) {
-                return new int[] {i + 1, j + 1}; // 1-based index
-            } else if (sum < target) {
-                i++; // Move left pointer right
+                return new int[] {i + 1, j + 1}; 
+                            } else if (sum < target) {
+                i++; 
             } else {
-                j--; // Move right pointer left
+                j--; 
             }
         }
         
-        return new int[] {}; // return empty array if no solution
+        return new int[] {}; 
     }
 }
