@@ -51,4 +51,9 @@ made changes
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/0344-reverse-string) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Shivendra-11/leetcode-questions/tree/master/1960-check-if-the-sentence-is-pangram) |
+## Hash Table
+|  |
+| ------- |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Shivendra-11/leetcode-questions/tree/master/1960-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
