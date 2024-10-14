@@ -12,6 +12,7 @@ made changes
 | [0042-trapping-rain-water](https://github.com/Shivendra-11/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shivendra-11/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Shivendra-11/leetcode-questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,4 +67,9 @@ made changes
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Shivendra-11/leetcode-questions/tree/master/0409-longest-palindrome) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Shivendra-11/leetcode-questions/tree/master/2616-maximal-score-after-applying-k-operations) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Shivendra-11/leetcode-questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 <!---LeetCode Topics End-->
