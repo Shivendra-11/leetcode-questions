@@ -55,6 +55,7 @@ made changes
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/0015-3sum) |
+| [2887-sort-vowels-in-a-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/2887-sort-vowels-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -62,6 +63,7 @@ made changes
 | [0409-longest-palindrome](https://github.com/Shivendra-11/leetcode-questions/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Shivendra-11/leetcode-questions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2887-sort-vowels-in-a-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/Shivendra-11/leetcode-questions/tree/master/3195-separate-black-and-white-balls) |
 ## Hash Table
 |  |
