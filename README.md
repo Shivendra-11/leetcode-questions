@@ -65,6 +65,7 @@ made changes
 | [0344-reverse-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Shivendra-11/leetcode-questions/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shivendra-11/leetcode-questions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Shivendra-11/leetcode-questions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2887-sort-vowels-in-a-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/Shivendra-11/leetcode-questions/tree/master/3195-separate-black-and-white-balls) |
@@ -91,6 +92,7 @@ made changes
 | [0209-minimum-size-subarray-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shivendra-11/leetcode-questions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
 | ------- |
