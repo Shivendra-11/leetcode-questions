@@ -17,6 +17,7 @@ made changes
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Shivendra-11/leetcode-questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shivendra-11/leetcode-questions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -62,6 +63,7 @@ made changes
 | ------- |
 | [0015-3sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/0015-3sum) |
 | [2887-sort-vowels-in-a-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/2887-sort-vowels-in-a-string) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/3291-find-if-array-can-be-sorted) |
 ## String
 |  |
 | ------- |
@@ -125,4 +127,8 @@ made changes
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/0812-rotate-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/3291-find-if-array-can-be-sorted) |
 <!---LeetCode Topics End-->
