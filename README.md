@@ -5,6 +5,7 @@ made changes
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -85,6 +86,7 @@ made changes
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Shivendra-11/leetcode-questions/tree/master/0012-integer-to-roman) |
 | [0219-contains-duplicate-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0409-longest-palindrome](https://github.com/Shivendra-11/leetcode-questions/tree/master/0409-longest-palindrome) |

@@ -17,6 +17,3 @@ class Solution {
       return arr;  
     }
 }
-
-
-
