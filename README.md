@@ -46,6 +46,7 @@ made changes
 | [0042-trapping-rain-water](https://github.com/Shivendra-11/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/0344-reverse-string) |
+| [0874-backspace-string-compare](https://github.com/Shivendra-11/leetcode-questions/tree/master/0874-backspace-string-compare) |
 | [3195-separate-black-and-white-balls](https://github.com/Shivendra-11/leetcode-questions/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
 |  |
@@ -53,6 +54,7 @@ made changes
 | [0020-valid-parentheses](https://github.com/Shivendra-11/leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shivendra-11/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/Shivendra-11/leetcode-questions/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/Shivendra-11/leetcode-questions/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shivendra-11/leetcode-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
@@ -80,6 +82,7 @@ made changes
 | [0415-add-strings](https://github.com/Shivendra-11/leetcode-questions/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0812-rotate-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/0812-rotate-string) |
+| [0874-backspace-string-compare](https://github.com/Shivendra-11/leetcode-questions/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shivendra-11/leetcode-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shivendra-11/leetcode-questions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -127,6 +130,7 @@ made changes
 | ------- |
 | [0415-add-strings](https://github.com/Shivendra-11/leetcode-questions/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Shivendra-11/leetcode-questions/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/Shivendra-11/leetcode-questions/tree/master/0874-backspace-string-compare) |
 ## Queue
 |  |
 | ------- |
