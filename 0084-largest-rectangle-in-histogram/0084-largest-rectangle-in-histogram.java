@@ -1,41 +1,44 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
         int n = heights.length;
-        if (n == 0) return 0; // Edge case: empty array
-        if (n == 1) return heights[0]; // Edge case: single bar
-
-        int[] left = new int[n];  // Stores the nearest smaller to the left
-        int[] right = new int[n]; // Stores the nearest smaller to the right
+        int[] arr1 = new int[n]; // Nearest smaller to the right
+        int[] arr2 = new int[n]; // Nearest smaller to the left
 
         Stack<Integer> st = new Stack<>();
 
-        // Compute nearest smaller to the left
+        // Compute nearest smaller to the right (arr1)
         for (int i = 0; i < n; i++) {
-            while (!st.isEmpty() && heights[st.peek()] >= heights[i]) {
-                st.pop();
+            while (!st.empty() && heights[st.peek()] > heights[i]) {
+                arr1[st.pop()] = i; // Set the next smaller index
             }
-            left[i] = st.isEmpty() ? -1 : st.peek();
             st.push(i);
         }
+        // For remaining elements, set right boundary to n
+        while (!st.isEmpty()) {
+            arr1[st.pop()] = n;
+        }
 
-        // Clear the stack to reuse it
+        // Clear the stack for left computation
         st.clear();
 
-        // Compute nearest smaller to the right
+        // Compute nearest smaller to the left (arr2)
         for (int i = n - 1; i >= 0; i--) {
-            while (!st.isEmpty() && heights[st.peek()] >= heights[i]) {
-                st.pop();
+            while (!st.empty() && heights[st.peek()] > heights[i]) {
+                arr2[st.pop()] = i; // Set the next smaller index
             }
-            right[i] = st.isEmpty() ? n : st.peek();
             st.push(i);
+        }
+        // For remaining elements, set left boundary to -1
+        while (!st.isEmpty()) {
+            arr2[st.pop()] = -1;
         }
 
         // Compute the largest rectangle area
         int maxArea = 0;
         for (int i = 0; i < n; i++) {
-            int width = right[i] - left[i] - 1; // Width of the rectangle
-            int area = heights[i] * width;     // Area of the rectangle
-            maxArea = Math.max(maxArea, area); // Update the maximum area
+            int width = arr1[i] - arr2[i] - 1; // Width of the rectangle
+            int area = heights[i] * width;    // Area of the rectangle
+            maxArea = Math.max(maxArea, area);
         }
 
         return maxArea;
