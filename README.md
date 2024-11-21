@@ -14,6 +14,7 @@ made changes
 | [0053-maximum-subarray](https://github.com/Shivendra-11/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shivendra-11/leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Shivendra-11/leetcode-questions/tree/master/0085-maximal-rectangle) |
+| [0136-single-number](https://github.com/Shivendra-11/leetcode-questions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0219-contains-duplicate-ii) |
@@ -165,6 +166,7 @@ made changes
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Shivendra-11/leetcode-questions/tree/master/0136-single-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Shivendra-11/leetcode-questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Counting
