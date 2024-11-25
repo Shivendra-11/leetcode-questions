@@ -182,4 +182,8 @@ made changes
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Shivendra-11/leetcode-questions/tree/master/0085-maximal-rectangle) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Shivendra-11/leetcode-questions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
