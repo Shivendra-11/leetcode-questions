@@ -39,12 +39,11 @@ public class Solution {
                 tempd=tempd.next;
             }
         }
-
         while(tempc!=tempd){
             tempc=tempc.next;
             tempd=tempd.next;
         }
 
-      return tempc;  
+      return tempd;  
     }
 }
