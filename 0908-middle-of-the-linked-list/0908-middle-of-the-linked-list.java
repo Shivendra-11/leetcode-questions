@@ -18,18 +18,13 @@ class Solution {
         }
         temp=head;
         ListNode bemp=head;
-        if(c%2!=0){
+        
             for(int i=0;i<c/2;i++){
              temp=temp.next;
             }
 
-           bemp=temp;
-        }else{
-            for(int i=0;i<((c/2));i++){
-             temp=temp.next;
-            }
-            bemp=temp;
-        }
-        return bemp;
+        
+        
+        return temp;
     }
 }
