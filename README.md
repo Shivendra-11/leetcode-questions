@@ -73,6 +73,7 @@ made changes
 | [0042-trapping-rain-water](https://github.com/Shivendra-11/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shivendra-11/leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Shivendra-11/leetcode-questions/tree/master/0085-maximal-rectangle) |
+| [0232-implement-queue-using-stacks](https://github.com/Shivendra-11/leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Shivendra-11/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Shivendra-11/leetcode-questions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Shivendra-11/leetcode-questions/tree/master/0874-backspace-string-compare) |
@@ -169,6 +170,7 @@ made changes
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Shivendra-11/leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Shivendra-11/leetcode-questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
@@ -217,4 +219,8 @@ made changes
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Shivendra-11/leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Shivendra-11/leetcode-questions/tree/master/0234-palindrome-linked-list) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Shivendra-11/leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
