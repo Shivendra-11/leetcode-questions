@@ -18,6 +18,7 @@ made changes
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0219-contains-duplicate-ii) |
+| [0485-max-consecutive-ones](https://github.com/Shivendra-11/leetcode-questions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/Shivendra-11/leetcode-questions/tree/master/0682-baseball-game) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0882-peak-index-in-a-mountain-array) |
