@@ -1,25 +1,35 @@
 class Solution {
-    public int trap(int[] heights) {
-
-       int arr1[]=new int[heights.length];
-       int arr2[]=new int[heights.length];
-        arr1[0]=0;
-
-       for(int i=1;i<heights.length;i++){
-          arr1[i]=Math.max(arr1[i-1],heights[i-1]); 
-       } 
-       arr2[heights.length-1]=0;
-       for(int i=heights.length-2;i>=0;i--){
-        arr2[i]=Math.max(arr2[i+1],heights[i+1]);
-       }
-       int water=0;
-       int minheight=0;
-       for(int i=0;i<heights.length;i++){
-        minheight=Math.min(arr1[i],arr2[i]);
-        if(minheight-heights[i]>=0){
-            water+=minheight-heights[i];
+    public int trap(int[] height) {
+        int leftmax=0;
+        int idx=0;
+        int rightmax=0;
+        int max=height[0];
+        int res=0;
+        int n=height.length;
+        for(int i=1;i<n;i++){
+            if(max<height[i]){
+            max=height[i];
+              idx=i;
+            }
+          
         }
-       }
-        return water;
+        for(int i=0;i<idx;i++){
+            if(height[i]<leftmax){
+       res+=leftmax-height[i];
+            }
+            else{
+                leftmax=height[i];
+            }
+        }
+
+    for(int i=n-1;i>idx;i--){
+            if(rightmax>height[i]){
+       res+=rightmax-height[i];
+            }
+            else{
+                rightmax=height[i];
+            }
+        }
+        return res;
     }
 }
