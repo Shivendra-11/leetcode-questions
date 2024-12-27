@@ -7,6 +7,7 @@ made changes
 | ------- |
 | [0001-two-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Shivendra-11/leetcode-questions/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shivendra-11/leetcode-questions/tree/master/0035-search-insert-position) |
@@ -54,6 +55,7 @@ made changes
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Shivendra-11/leetcode-questions/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shivendra-11/leetcode-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Shivendra-11/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Shivendra-11/leetcode-questions/tree/master/0141-linked-list-cycle) |
@@ -98,6 +100,7 @@ made changes
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Shivendra-11/leetcode-questions/tree/master/0016-3sum-closest) |
 | [2887-sort-vowels-in-a-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/3291-find-if-array-can-be-sorted) |
 ## String
