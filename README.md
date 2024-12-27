@@ -6,6 +6,7 @@ made changes
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Shivendra-11/leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shivendra-11/leetcode-questions/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -54,6 +55,7 @@ made changes
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shivendra-11/leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shivendra-11/leetcode-questions/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shivendra-11/leetcode-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -147,6 +149,7 @@ made changes
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shivendra-11/leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Shivendra-11/leetcode-questions/tree/master/0409-longest-palindrome) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shivendra-11/leetcode-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shivendra-11/leetcode-questions/tree/master/2616-maximal-score-after-applying-k-operations) |
