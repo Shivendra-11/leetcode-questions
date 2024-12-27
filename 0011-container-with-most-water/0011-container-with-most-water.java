@@ -8,7 +8,7 @@ class Solution {
        {
 
        area=Math.max(area,Math.min(height[i],height[j])*(j-i));
-                if(height[i]>height[j]){
+                if(height[i]>=height[j]){
                     j--;
                 }else{
                     i++;
