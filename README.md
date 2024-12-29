@@ -15,6 +15,7 @@ made changes
 | [0042-trapping-rain-water](https://github.com/Shivendra-11/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Shivendra-11/leetcode-questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Shivendra-11/leetcode-questions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Shivendra-11/leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shivendra-11/leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Shivendra-11/leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/Shivendra-11/leetcode-questions/tree/master/0136-single-number) |
@@ -181,6 +182,7 @@ made changes
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Shivendra-11/leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/Shivendra-11/leetcode-questions/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Shivendra-11/leetcode-questions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Shivendra-11/leetcode-questions/tree/master/0874-backspace-string-compare) |
@@ -219,6 +221,7 @@ made changes
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shivendra-11/leetcode-questions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Shivendra-11/leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/Shivendra-11/leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0898-transpose-matrix](https://github.com/Shivendra-11/leetcode-questions/tree/master/0898-transpose-matrix) |
 ## Linked List
