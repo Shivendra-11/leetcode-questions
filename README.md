@@ -14,6 +14,7 @@ made changes
 | [0035-search-insert-position](https://github.com/Shivendra-11/leetcode-questions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Shivendra-11/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Shivendra-11/leetcode-questions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Shivendra-11/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Shivendra-11/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shivendra-11/leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0059-spiral-matrix-ii) |
@@ -109,6 +110,7 @@ made changes
 | ------- |
 | [0015-3sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shivendra-11/leetcode-questions/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/Shivendra-11/leetcode-questions/tree/master/0049-group-anagrams) |
 | [2887-sort-vowels-in-a-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/3291-find-if-array-can-be-sorted) |
 ## String
@@ -117,6 +119,7 @@ made changes
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivendra-11/leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Shivendra-11/leetcode-questions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Shivendra-11/leetcode-questions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Shivendra-11/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/Shivendra-11/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -141,6 +144,7 @@ made changes
 | [0001-two-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivendra-11/leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Shivendra-11/leetcode-questions/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/Shivendra-11/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Shivendra-11/leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivendra-11/leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
