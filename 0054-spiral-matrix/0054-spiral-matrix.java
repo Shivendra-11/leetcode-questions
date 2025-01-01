@@ -8,30 +8,29 @@ class Solution {
         int bottomrow=r-1;
         int rightcol=c-1;
         int leftcol=0;
-    
-        int ele=0;
+        int ele=1;
 
-while(ele<r*c){
+while(ele<=r*c){
 
-    // for toprow
-    for(int i=leftcol;i<=rightcol&& ele<r*c ;i++){
+    for(int i=leftcol;i<=rightcol && ele<=r*c ;i++){
         li.add(matrix[toprow][i]);
         ele++;
-    }
+    }   
+
     toprow++;
 
-    for(int j=toprow;j<=bottomrow && ele<r*c  ;j++){
+    for(int j=toprow;j<=bottomrow && ele<=r*c;j++){
         li.add(matrix[j][rightcol]);
         ele++;
     }
     rightcol--;
 
-    for(int i=rightcol;i>=leftcol && ele<r*c;i--){
+    for(int i=rightcol;i>=leftcol && ele<=r*c;i--){
         li.add(matrix[bottomrow][i]);
         ele++;
     }
     bottomrow--;
-    for(int j=bottomrow;j>=toprow && ele<r*c ;j--){
+    for(int j=bottomrow;j>=toprow && ele<=r*c ;j--){
     li.add(matrix[j][leftcol]);
       ele++;
     }
