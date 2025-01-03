@@ -34,6 +34,7 @@ made changes
 | [1755-defuse-the-bomb](https://github.com/Shivendra-11/leetcode-questions/tree/master/1755-defuse-the-bomb) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Shivendra-11/leetcode-questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2358-number-of-ways-to-split-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2358-number-of-ways-to-split-array) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Shivendra-11/leetcode-questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shivendra-11/leetcode-questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Shivendra-11/leetcode-questions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -192,6 +193,7 @@ made changes
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Shivendra-11/leetcode-questions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Simulation
 |  |
