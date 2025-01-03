@@ -19,6 +19,7 @@ made changes
 | [0053-maximum-subarray](https://github.com/Shivendra-11/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shivendra-11/leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0059-spiral-matrix-ii) |
+| [0075-sort-colors](https://github.com/Shivendra-11/leetcode-questions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shivendra-11/leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Shivendra-11/leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/Shivendra-11/leetcode-questions/tree/master/0136-single-number) |
@@ -71,6 +72,7 @@ made changes
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shivendra-11/leetcode-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Shivendra-11/leetcode-questions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Shivendra-11/leetcode-questions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Shivendra-11/leetcode-questions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Shivendra-11/leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivendra-11/leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -116,6 +118,7 @@ made changes
 | [0015-3sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shivendra-11/leetcode-questions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Shivendra-11/leetcode-questions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Shivendra-11/leetcode-questions/tree/master/0075-sort-colors) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Shivendra-11/leetcode-questions/tree/master/1253-sort-the-matrix-diagonally) |
 | [2887-sort-vowels-in-a-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/3291-find-if-array-can-be-sorted) |
