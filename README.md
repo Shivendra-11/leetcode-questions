@@ -33,6 +33,7 @@ made changes
 | [0724-find-pivot-index](https://github.com/Shivendra-11/leetcode-questions/tree/master/0724-find-pivot-index) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Shivendra-11/leetcode-questions/tree/master/0898-transpose-matrix) |
+| [0948-sort-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Shivendra-11/leetcode-questions/tree/master/1018-largest-perimeter-triangle) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Shivendra-11/leetcode-questions/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Shivendra-11/leetcode-questions/tree/master/1253-sort-the-matrix-diagonally) |
@@ -55,6 +56,7 @@ made changes
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shivendra-11/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Shivendra-11/leetcode-questions/tree/master/0190-reverse-bits) |
+| [0948-sort-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -128,6 +130,7 @@ made changes
 | [0016-3sum-closest](https://github.com/Shivendra-11/leetcode-questions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Shivendra-11/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Shivendra-11/leetcode-questions/tree/master/0075-sort-colors) |
+| [0948-sort-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Shivendra-11/leetcode-questions/tree/master/1018-largest-perimeter-triangle) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Shivendra-11/leetcode-questions/tree/master/1253-sort-the-matrix-diagonally) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2117-find-original-array-from-doubled-array) |
@@ -199,6 +202,7 @@ made changes
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0948-sort-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0948-sort-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shivendra-11/leetcode-questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Sliding Window
 |  |
@@ -305,4 +309,20 @@ made changes
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Shivendra-11/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
+## Merge Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0948-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0948-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0948-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
