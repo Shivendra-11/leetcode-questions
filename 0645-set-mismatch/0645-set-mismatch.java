@@ -1,20 +1,24 @@
 class Solution {
     public int[] findErrorNums(int[] nums) {
-    
-        int n=nums.length;
-        int temp[]=new int[2];
-       Arrays.sort(nums);
-       int sum=0;
-       for(int i=0;i<nums.length;i++){
-        sum+=nums[i];
-       }
-        for(int i=0;i<nums.length-1;i++){
-            if(nums[i]==nums[i+1]){
-               temp[0]=nums[i];
-            }
-            
+        HashMap<Integer,Integer>mp=new HashMap<>();
+int n=nums.length;
+        for(int i=0;i<nums.length;i++){
+            mp.put(nums[i],mp.getOrDefault(nums[i],0)+1);
         }
-        temp[1]=(n*(n+1)/2)-sum+temp[0];
+int dup=-1;
+int mismatch=-1;
+int []temp=new int[2];
+        for(int i=1;i<=n;i++){
+            if(mp.containsKey(i)){
+                if(mp.get(i)==2){
+                    dup=i;
+                }
+            }else{
+                mismatch=i;
+            }
+        }
+        temp[0]=dup;
+        temp[1]=mismatch;
         return temp;
     }
 }
