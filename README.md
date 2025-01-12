@@ -32,6 +32,7 @@ made changes
 | [0645-set-mismatch](https://github.com/Shivendra-11/leetcode-questions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Shivendra-11/leetcode-questions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Shivendra-11/leetcode-questions/tree/master/0724-find-pivot-index) |
+| [0777-toeplitz-matrix](https://github.com/Shivendra-11/leetcode-questions/tree/master/0777-toeplitz-matrix) |
 | [0864-image-overlap](https://github.com/Shivendra-11/leetcode-questions/tree/master/0864-image-overlap) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Shivendra-11/leetcode-questions/tree/master/0898-transpose-matrix) |
@@ -280,6 +281,7 @@ made changes
 | [0054-spiral-matrix](https://github.com/Shivendra-11/leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0059-spiral-matrix-ii) |
 | [0085-maximal-rectangle](https://github.com/Shivendra-11/leetcode-questions/tree/master/0085-maximal-rectangle) |
+| [0777-toeplitz-matrix](https://github.com/Shivendra-11/leetcode-questions/tree/master/0777-toeplitz-matrix) |
 | [0864-image-overlap](https://github.com/Shivendra-11/leetcode-questions/tree/master/0864-image-overlap) |
 | [0898-transpose-matrix](https://github.com/Shivendra-11/leetcode-questions/tree/master/0898-transpose-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Shivendra-11/leetcode-questions/tree/master/1253-sort-the-matrix-diagonally) |
