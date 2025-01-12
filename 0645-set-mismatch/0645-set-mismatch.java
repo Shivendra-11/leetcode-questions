@@ -1,30 +1,20 @@
 class Solution {
-    static void swap(int[] arr, int i, int ci) {
-        int temp = arr[i];
-        arr[i] = arr[ci];
-        arr[ci] = temp;
-    }
-
     public int[] findErrorNums(int[] nums) {
-        int[] arr = new int[2];
-        int i = 0;
-
-        while (i < nums.length) {
-            int ci = nums[i] - 1;
-            if (nums[i] != nums[ci]) {
-                swap(nums, ci, i);
-            } else {
-                i++;
+    
+        int n=nums.length;
+        int temp[]=new int[2];
+       Arrays.sort(nums);
+       int sum=0;
+       for(int i=0;i<nums.length;i++){
+        sum+=nums[i];
+       }
+        for(int i=0;i<nums.length-1;i++){
+            if(nums[i]==nums[i+1]){
+               temp[0]=nums[i];
             }
+            
         }
-
-        for (int j = 0; j < nums.length; j++) {
-            if (nums[j] != j + 1) {
-                arr[0] = nums[j];
-                arr[1] = j + 1;
-            }
-        }
-
-        return arr;
+        temp[1]=(n*(n+1)/2)-sum+temp[0];
+        return temp;
     }
 }
