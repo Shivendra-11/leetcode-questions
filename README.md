@@ -64,6 +64,7 @@ made changes
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shivendra-11/leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shivendra-11/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shivendra-11/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/Shivendra-11/leetcode-questions/tree/master/0085-maximal-rectangle) |
@@ -147,6 +148,7 @@ made changes
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivendra-11/leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Shivendra-11/leetcode-questions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Shivendra-11/leetcode-questions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Shivendra-11/leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Shivendra-11/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/Shivendra-11/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/0344-reverse-string) |
@@ -339,4 +341,8 @@ made changes
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0948-sort-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Shivendra-11/leetcode-questions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
