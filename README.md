@@ -56,6 +56,7 @@ made changes
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shivendra-11/leetcode-questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Shivendra-11/leetcode-questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shivendra-11/leetcode-questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/Shivendra-11/leetcode-questions/tree/master/2792-neighboring-bitwise-xor) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Shivendra-11/leetcode-questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -289,6 +290,7 @@ made changes
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Shivendra-11/leetcode-questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Shivendra-11/leetcode-questions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shivendra-11/leetcode-questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/Shivendra-11/leetcode-questions/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Counting
 |  |
