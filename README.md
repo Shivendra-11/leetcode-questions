@@ -26,6 +26,7 @@ made changes
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/Shivendra-11/leetcode-questions/tree/master/0228-summary-ranges) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shivendra-11/leetcode-questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shivendra-11/leetcode-questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/Shivendra-11/leetcode-questions/tree/master/0485-max-consecutive-ones) |
