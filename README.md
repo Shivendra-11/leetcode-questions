@@ -14,6 +14,7 @@ made changes
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shivendra-11/leetcode-questions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Shivendra-11/leetcode-questions/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Shivendra-11/leetcode-questions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Shivendra-11/leetcode-questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Shivendra-11/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Shivendra-11/leetcode-questions/tree/master/0053-maximum-subarray) |
@@ -377,6 +378,7 @@ made changes
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shivendra-11/leetcode-questions/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Shivendra-11/leetcode-questions/tree/master/0046-permutations) |
 ## Brainteaser
 |  |
 | ------- |
