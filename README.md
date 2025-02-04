@@ -57,6 +57,7 @@ made changes
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Shivendra-11/leetcode-questions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1755-defuse-the-bomb](https://github.com/Shivendra-11/leetcode-questions/tree/master/1755-defuse-the-bomb) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Shivendra-11/leetcode-questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Shivendra-11/leetcode-questions/tree/master/2292-counting-words-with-a-given-prefix) |
