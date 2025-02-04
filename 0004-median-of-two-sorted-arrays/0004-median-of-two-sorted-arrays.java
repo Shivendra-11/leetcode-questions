@@ -6,26 +6,58 @@ class Solution {
         int i = 0;
         int k = 0;
         int j = 0; 
-        while (i < n && j < m){
+        int idx1=((m+n)/2)-1;
+        int idx2=(m+n)/2;
+        int ele1=0;
+        int ele2=0;
+        while (i < n && j < m) {
             if (nums1[i] <= nums2[j]) {
-                arr[k++] = nums1[i++];
+               if(idx1==k){
+                    ele1=nums1[i];
+               }
+                  if(idx2==k){
+                    ele2=nums1[i];
+                  }
+                  i++;
+                  k++;
             } else {
-                arr[k++] = nums2[j++];
+                if(idx1==k){
+                    ele1=nums2[j];
+               }
+                  if(idx2==k){
+                    ele2=nums2[j];
+                  }
+                  j++;
+                  k++;
             }
         }
 
         while (i < n) {
-            arr[k++] = nums1[i++];
+             if(idx1==k){
+                    ele1=nums1[i];
+               }
+                  if(idx2==k){
+                    ele2=nums1[i];
+                  }
+                  i++;
+                  k++;
         }
         while (j < m) {
-            arr[k++] = nums2[j++];
+             if(idx1==k){
+                    ele1=nums2[j];
+               }
+                  if(idx2==k){
+                    ele2=nums2[j];
+                  }
+                  j++;
+                  k++;
         }
 
-        if (arr.length % 2 != 0){
-            return (double)arr[(m+n)/2];         
+        if ((m+n)% 2 == 0){
+            return (double) (ele1+ele2)/2.0;        
         }
 
-           return (double)(arr[(m+n)/2]+ arr[((m+n)/2)-1])/2;    
+           return (double) ele2;    
          
     }
 }
