@@ -67,6 +67,7 @@ made changes
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Shivendra-11/leetcode-questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2358-number-of-ways-to-split-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Shivendra-11/leetcode-questions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2448-count-number-of-bad-pairs](https://github.com/Shivendra-11/leetcode-questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Shivendra-11/leetcode-questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Shivendra-11/leetcode-questions/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -160,6 +161,7 @@ made changes
 | [0415-add-strings](https://github.com/Shivendra-11/leetcode-questions/tree/master/0415-add-strings) |
 | [1018-largest-perimeter-triangle](https://github.com/Shivendra-11/leetcode-questions/tree/master/1018-largest-perimeter-triangle) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Shivendra-11/leetcode-questions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2448-count-number-of-bad-pairs](https://github.com/Shivendra-11/leetcode-questions/tree/master/2448-count-number-of-bad-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -240,6 +242,7 @@ made changes
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Shivendra-11/leetcode-questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Shivendra-11/leetcode-questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/Shivendra-11/leetcode-questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shivendra-11/leetcode-questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Shivendra-11/leetcode-questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Shivendra-11/leetcode-questions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -341,6 +344,7 @@ made changes
 | [1364-tuple-with-same-product](https://github.com/Shivendra-11/leetcode-questions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shivendra-11/leetcode-questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Shivendra-11/leetcode-questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/Shivendra-11/leetcode-questions/tree/master/2448-count-number-of-bad-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Shivendra-11/leetcode-questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Shivendra-11/leetcode-questions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Matrix
