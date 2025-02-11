@@ -151,6 +151,7 @@ made changes
 | [0682-baseball-game](https://github.com/Shivendra-11/leetcode-questions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Shivendra-11/leetcode-questions/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shivendra-11/leetcode-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Shivendra-11/leetcode-questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Shivendra-11/leetcode-questions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3447-clear-digits](https://github.com/Shivendra-11/leetcode-questions/tree/master/3447-clear-digits) |
 ## Monotonic Stack
@@ -217,6 +218,7 @@ made changes
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Shivendra-11/leetcode-questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shivendra-11/leetcode-questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Shivendra-11/leetcode-questions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Shivendra-11/leetcode-questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Shivendra-11/leetcode-questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Shivendra-11/leetcode-questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2580-circular-sentence](https://github.com/Shivendra-11/leetcode-questions/tree/master/2580-circular-sentence) |
@@ -316,6 +318,7 @@ made changes
 | [0898-transpose-matrix](https://github.com/Shivendra-11/leetcode-questions/tree/master/0898-transpose-matrix) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Shivendra-11/leetcode-questions/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1184-car-pooling](https://github.com/Shivendra-11/leetcode-questions/tree/master/1184-car-pooling) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Shivendra-11/leetcode-questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Shivendra-11/leetcode-questions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3447-clear-digits](https://github.com/Shivendra-11/leetcode-questions/tree/master/3447-clear-digits) |
 ## Queue
