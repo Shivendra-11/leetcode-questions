@@ -63,6 +63,7 @@ made changes
 | [1524-string-matching-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Shivendra-11/leetcode-questions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Shivendra-11/leetcode-questions/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1646-kth-missing-positive-number](https://github.com/Shivendra-11/leetcode-questions/tree/master/1646-kth-missing-positive-number) |
 | [1755-defuse-the-bomb](https://github.com/Shivendra-11/leetcode-questions/tree/master/1755-defuse-the-bomb) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Shivendra-11/leetcode-questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -117,6 +118,7 @@ made changes
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shivendra-11/leetcode-questions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1646-kth-missing-positive-number](https://github.com/Shivendra-11/leetcode-questions/tree/master/1646-kth-missing-positive-number) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Two Pointers
 |  |
