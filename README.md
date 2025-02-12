@@ -48,6 +48,7 @@ made changes
 | [0864-image-overlap](https://github.com/Shivendra-11/leetcode-questions/tree/master/0864-image-overlap) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Shivendra-11/leetcode-questions/tree/master/0898-transpose-matrix) |
+| [0907-koko-eating-bananas](https://github.com/Shivendra-11/leetcode-questions/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0948-sort-an-array) |
 | [0979-di-string-match](https://github.com/Shivendra-11/leetcode-questions/tree/master/0979-di-string-match) |
@@ -120,6 +121,7 @@ made changes
 | [0374-guess-number-higher-or-lower](https://github.com/Shivendra-11/leetcode-questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/Shivendra-11/leetcode-questions/tree/master/0907-koko-eating-bananas) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shivendra-11/leetcode-questions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivendra-11/leetcode-questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/Shivendra-11/leetcode-questions/tree/master/1646-kth-missing-positive-number) |
