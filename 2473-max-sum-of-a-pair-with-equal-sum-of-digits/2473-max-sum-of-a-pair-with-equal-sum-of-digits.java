@@ -11,18 +11,17 @@ class Solution {
     }
 
     public int maximumSum(int[] nums) {
-        Map<Integer, Integer> map = new HashMap<>();
-        int maxSum = -1;
-
-        for (int num : nums) {
-            int digitSum = sumd(num);
-            if (map.containsKey(digitSum)) {
-                maxSum = Math.max(maxSum, map.get(digitSum) + num);
-                map.put(digitSum, Math.max(map.get(digitSum), num)); 
-            } else {
-                map.put(digitSum, num);
-            }
+      int maxi=-1;
+      int arr[]=new int[82];
+    //   int maxi=-1;
+      for(int i=0;i<nums.length;i++){
+        int ds=sumd(nums[i]);
+        if(arr[ds]>0){
+            maxi=Math.max(maxi,arr[ds]+nums[i]);
         }
-        return maxSum;
+        arr[ds]=Math.max(arr[ds],nums[i]);
+      }
+      return maxi;
+
     }
 }
