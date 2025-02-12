@@ -13,14 +13,16 @@ class Solution {
         }
         long l=1;
         long h = 1L * mini * totaltrips;
-        while(l<h){
+        long ans=0;
+        while(l<=h){
             long mid=l+(h-l)/2;
             if(triptime(time,mid,totaltrips)){
-         h=mid;
+         ans=mid;
+         h=mid-1;
             }else{
                 l=mid+1;
             }
         }
-        return l;
+        return ans;
     }
 }
