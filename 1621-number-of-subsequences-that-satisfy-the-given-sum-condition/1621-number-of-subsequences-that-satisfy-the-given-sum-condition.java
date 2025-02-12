@@ -1,26 +1,33 @@
+
+
 class Solution {
     public int numSubseq(int[] nums, int target) {
-        int M = 1_000_000_007;
         Arrays.sort(nums);
-        int l = 0;
-        int r = nums.length - 1;
-        int result = 0;
-
-        int[] powerOfTwo = new int[nums.length];
-        powerOfTwo[0] = 1;
-        for (int i = 1; i < nums.length; i++) {
-            powerOfTwo[i] = (powerOfTwo[i - 1] * 2) % M;
-        }
-
-        while (l <= r) {
-            if (nums[l] + nums[r] <= target) {
-                result = (result + powerOfTwo[r - l]) % M;
-                l++;
+        int i = 0, j = nums.length - 1;
+        int count = 0;
+        int M = 1_000_000_007;
+        
+        while (i <= j) {
+            if (nums[i] + nums[j] <= target) {
+                int n = j - i;
+                count = (count + fastPower(2, n, M)) % M;
+                i++;
             } else {
-                r--;
+                j--;
             }
         }
-
+        return count;
+    }
+    
+    private int fastPower(int base, int exp, int mod) {
+        int result = 1;
+        while (exp > 0) {
+            if ((exp & 1) == 1) {
+                result = (int)((1L * result * base) % mod);
+            }
+            base = (int)((1L * base * base) % mod);
+            exp >>= 1;
+        }
         return result;
     }
 }
