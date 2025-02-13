@@ -76,6 +76,7 @@ made changes
 | [2294-minimum-time-to-complete-trips](https://github.com/Shivendra-11/leetcode-questions/tree/master/2294-minimum-time-to-complete-trips) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Shivendra-11/leetcode-questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2358-number-of-ways-to-split-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Shivendra-11/leetcode-questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Shivendra-11/leetcode-questions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Shivendra-11/leetcode-questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -126,6 +127,7 @@ made changes
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivendra-11/leetcode-questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/Shivendra-11/leetcode-questions/tree/master/1646-kth-missing-positive-number) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Shivendra-11/leetcode-questions/tree/master/2294-minimum-time-to-complete-trips) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Shivendra-11/leetcode-questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Two Pointers
 |  |
@@ -151,6 +153,7 @@ made changes
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivendra-11/leetcode-questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Shivendra-11/leetcode-questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Shivendra-11/leetcode-questions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Shivendra-11/leetcode-questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3195-separate-black-and-white-balls](https://github.com/Shivendra-11/leetcode-questions/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
 |  |
@@ -204,6 +207,7 @@ made changes
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivendra-11/leetcode-questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Shivendra-11/leetcode-questions/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2117-find-original-array-from-doubled-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Shivendra-11/leetcode-questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shivendra-11/leetcode-questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2887-sort-vowels-in-a-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/2887-sort-vowels-in-a-string) |
