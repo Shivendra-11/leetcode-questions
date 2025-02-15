@@ -192,6 +192,7 @@ made changes
 | [1018-largest-perimeter-triangle](https://github.com/Shivendra-11/leetcode-questions/tree/master/1018-largest-perimeter-triangle) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Shivendra-11/leetcode-questions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Shivendra-11/leetcode-questions/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Shivendra-11/leetcode-questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Sorting
 |  |
 | ------- |
@@ -464,6 +465,7 @@ made changes
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shivendra-11/leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Shivendra-11/leetcode-questions/tree/master/0046-permutations) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Shivendra-11/leetcode-questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Brainteaser
 |  |
 | ------- |
