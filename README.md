@@ -122,6 +122,7 @@ made changes
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Shivendra-11/leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shivendra-11/leetcode-questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -378,6 +379,7 @@ made changes
 | [0136-single-number](https://github.com/Shivendra-11/leetcode-questions/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/Shivendra-11/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/Shivendra-11/leetcode-questions/tree/master/0190-reverse-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/Shivendra-11/leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0645-set-mismatch](https://github.com/Shivendra-11/leetcode-questions/tree/master/0645-set-mismatch) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Shivendra-11/leetcode-questions/tree/master/0795-k-th-symbol-in-grammar) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Shivendra-11/leetcode-questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -487,4 +489,12 @@ made changes
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shivendra-11/leetcode-questions/tree/master/0070-climbing-stairs) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Shivendra-11/leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Shivendra-11/leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
