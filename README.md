@@ -25,6 +25,7 @@ made changes
 | [0075-sort-colors](https://github.com/Shivendra-11/leetcode-questions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shivendra-11/leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Shivendra-11/leetcode-questions/tree/master/0085-maximal-rectangle) |
+| [0128-longest-consecutive-sequence](https://github.com/Shivendra-11/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Shivendra-11/leetcode-questions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -263,6 +264,7 @@ made changes
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivendra-11/leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Shivendra-11/leetcode-questions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Shivendra-11/leetcode-questions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Shivendra-11/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Shivendra-11/leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivendra-11/leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -507,4 +509,8 @@ made changes
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Shivendra-11/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
