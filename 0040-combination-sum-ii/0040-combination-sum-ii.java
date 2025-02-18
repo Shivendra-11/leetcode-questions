@@ -12,13 +12,15 @@ class Solution {
         }
 
         for (int j = i; j < arr.length; j++) {
-            if (target >= arr[j]) {
-                if (j>i && arr[j] == arr[j-1]) continue;
-                    temp.add(arr[j]);
-                    gen(arr, ans, temp, target - arr[j], j + 1);
-                    temp.remove(temp.size() - 1);
-             } 
-        }
+
+            if (j > i && arr[j] == arr[j - 1]){
+                continue;
+            }
+            temp.add(arr[j]);
+            gen(arr, ans, temp, target - arr[j], j + 1);
+            temp.remove(temp.size() - 1);
+        
+    }
 
     }
 
