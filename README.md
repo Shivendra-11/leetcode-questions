@@ -89,6 +89,7 @@ made changes
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shivendra-11/leetcode-questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Shivendra-11/leetcode-questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Shivendra-11/leetcode-questions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/Shivendra-11/leetcode-questions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Shivendra-11/leetcode-questions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shivendra-11/leetcode-questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Shivendra-11/leetcode-questions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -139,6 +140,7 @@ made changes
 | [2294-minimum-time-to-complete-trips](https://github.com/Shivendra-11/leetcode-questions/tree/master/2294-minimum-time-to-complete-trips) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Shivendra-11/leetcode-questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/Shivendra-11/leetcode-questions/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -222,6 +224,7 @@ made changes
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Shivendra-11/leetcode-questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shivendra-11/leetcode-questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/Shivendra-11/leetcode-questions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2887-sort-vowels-in-a-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/3291-find-if-array-can-be-sorted) |
 ## String
@@ -314,6 +317,7 @@ made changes
 | [2117-find-original-array-from-doubled-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/Shivendra-11/leetcode-questions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shivendra-11/leetcode-questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/Shivendra-11/leetcode-questions/tree/master/3195-separate-black-and-white-balls) |
 ## Heap (Priority Queue)
@@ -347,6 +351,7 @@ made changes
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Shivendra-11/leetcode-questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2358-number-of-ways-to-split-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/Shivendra-11/leetcode-questions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Shivendra-11/leetcode-questions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Simulation
 |  |
