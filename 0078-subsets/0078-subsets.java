@@ -1,19 +1,19 @@
 class Solution {
-    public static void sub(int arr[], int i, int n, ArrayList<Integer> temp, ArrayList<List<Integer>> ans) {
-        if (i == n) {
+    public static void gen(int arr[],List<List<Integer>> ans, ArrayList<Integer> temp,int i,int n){
+        if(i==n){
             ans.add(new ArrayList<>(temp));
-            return;
+            return ;
         }
-       temp.add(arr[i]);
-       sub(arr,i+1,arr.length,temp,ans);
-       temp.remove(temp.size()-1);
-       sub(arr,i+1,arr.length,temp,ans);
-    }
 
+        temp.add(arr[i]);
+        gen(arr,ans,temp,i+1,n);
+        temp.remove(temp.size()-1);
+        gen(arr,ans,temp,i+1,n);
+    }
     public List<List<Integer>> subsets(int[] nums) {
-        ArrayList<List<Integer>> ans = new ArrayList<>();
-        ArrayList<Integer> temp = new ArrayList<>();
-        sub(nums, 0, nums.length, temp, ans);
-        return ans;
+       List<List<Integer>> ans=new ArrayList<>();
+       ArrayList<Integer> temp=new ArrayList<>();
+       gen(nums,ans,temp,0,nums.length);
+       return ans; 
     }
 }
