@@ -1,28 +1,25 @@
 import java.util.*;
 
 class Solution {
-    public static void gen(int arr[], List<List<Integer>> ans, ArrayList<Integer> temp, int i, int n) {
+    public static void gen(int arr[], Set<List<Integer>> ans, ArrayList<Integer> temp, int i, int n) {
         if (i == n) {
-            ans.add(new ArrayList<>(temp));
+            ans.add(new ArrayList<>(temp)); // HashSet ensures uniqueness
             return;
         }
 
+        // Include current element
         temp.add(arr[i]);
         gen(arr, ans, temp, i + 1, n);
         temp.remove(temp.size() - 1);
 
-        while (i + 1 < n && arr[i] == arr[i + 1]) {
-            i++;
-        }
-
-      
+        // Exclude current element
         gen(arr, ans, temp, i + 1, n);
     }
 
     public List<List<Integer>> subsetsWithDup(int[] nums) {
-        Arrays.sort(nums);  
-        List<List<Integer>> ans = new ArrayList<>();
+        Arrays.sort(nums);  // Sort to group duplicates together
+        Set<List<Integer>> ans = new HashSet<>();
         gen(nums, ans, new ArrayList<>(), 0, nums.length);
-        return ans;
+        return new ArrayList<>(ans); // Convert set to list before returning
     }
 }
