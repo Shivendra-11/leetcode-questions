@@ -37,7 +37,7 @@ class Solution {
         ListNode temp=reverseList(slow.next);
        slow.next=temp;
       ListNode p1=head;
-     ListNode p2=slow.next;
+     ListNode p2=temp;
 while(p2!=null){
     if(p1.val!=p2.val) return false;
     p1=p1.next;
@@ -45,8 +45,6 @@ while(p2!=null){
 }
 
 return true;
-
-
 
     }
 }
