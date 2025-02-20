@@ -17,15 +17,20 @@ class Solution {
     }
 
     public List<Boolean> checkArithmeticSubarrays(int[] nums, int[] l, int[] r) {
-        List<Boolean> result = new ArrayList<>();
+        List<Boolean> li = new ArrayList<>();
         
-        for (int i = 0; i < l.length; i++) {
-            int low = l[i];
-            int high = r[i];
-            result.add(finds(nums, low, high));
+          for(int i=0;i<l.length;i++){
+            int low=l[i];
+            int high=r[i];
+            if(finds(nums,low,high)){
+                li.add(true);
+            }else{
+               li.add(false);
+            }
         }
+        return li;
         
-        return result;
+        
     }
 
    
