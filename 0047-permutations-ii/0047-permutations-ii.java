@@ -19,6 +19,7 @@ class Solution {
             return;
         }
         for(int i=idx;i<n;i++){
+            if(idx<i && nums[i]==nums[i-1]) continue;
          swap(nums,i,idx);
         gen(ans,nums,idx+1,n);
         swap(nums,i,idx);
