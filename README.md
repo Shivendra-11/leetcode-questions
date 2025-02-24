@@ -102,6 +102,7 @@ made changes
 | [2432-number-of-zero-filled-subarrays](https://github.com/Shivendra-11/leetcode-questions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Shivendra-11/leetcode-questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Shivendra-11/leetcode-questions/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shivendra-11/leetcode-questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Shivendra-11/leetcode-questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Shivendra-11/leetcode-questions/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -293,6 +294,7 @@ made changes
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Shivendra-11/leetcode-questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Shivendra-11/leetcode-questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Shivendra-11/leetcode-questions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Shivendra-11/leetcode-questions/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2580-circular-sentence](https://github.com/Shivendra-11/leetcode-questions/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Shivendra-11/leetcode-questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2887-sort-vowels-in-a-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/2887-sort-vowels-in-a-string) |
@@ -396,6 +398,7 @@ made changes
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Shivendra-11/leetcode-questions/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2358-number-of-ways-to-split-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2358-number-of-ways-to-split-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Shivendra-11/leetcode-questions/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Shivendra-11/leetcode-questions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Shivendra-11/leetcode-questions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Simulation
