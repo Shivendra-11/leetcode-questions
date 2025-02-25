@@ -92,6 +92,7 @@ made changes
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Shivendra-11/leetcode-questions/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shivendra-11/leetcode-questions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2117-find-original-array-from-doubled-array) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Shivendra-11/leetcode-questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/Shivendra-11/leetcode-questions/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Shivendra-11/leetcode-questions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -159,6 +160,7 @@ made changes
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Shivendra-11/leetcode-questions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Shivendra-11/leetcode-questions/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Shivendra-11/leetcode-questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/Shivendra-11/leetcode-questions/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Shivendra-11/leetcode-questions/tree/master/2294-minimum-time-to-complete-trips) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Shivendra-11/leetcode-questions/tree/master/2334-number-of-flowers-in-full-bloom) |
@@ -258,6 +260,7 @@ made changes
 | [1752-arithmetic-subarrays](https://github.com/Shivendra-11/leetcode-questions/tree/master/1752-arithmetic-subarrays) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Shivendra-11/leetcode-questions/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2117-find-original-array-from-doubled-array) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Shivendra-11/leetcode-questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/Shivendra-11/leetcode-questions/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Shivendra-11/leetcode-questions/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Shivendra-11/leetcode-questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
