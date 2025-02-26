@@ -79,6 +79,7 @@ made changes
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shivendra-11/leetcode-questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivendra-11/leetcode-questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Shivendra-11/leetcode-questions/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/Shivendra-11/leetcode-questions/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Shivendra-11/leetcode-questions/tree/master/1646-kth-missing-positive-number) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Shivendra-11/leetcode-questions/tree/master/1657-find-the-winner-of-an-array-game) |
@@ -138,6 +139,7 @@ made changes
 | [0070-climbing-stairs](https://github.com/Shivendra-11/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Shivendra-11/leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0435-non-overlapping-intervals](https://github.com/Shivendra-11/leetcode-questions/tree/master/0435-non-overlapping-intervals) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Shivendra-11/leetcode-questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Binary Search
 |  |
@@ -233,6 +235,7 @@ made changes
 | [0415-add-strings](https://github.com/Shivendra-11/leetcode-questions/tree/master/0415-add-strings) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Shivendra-11/leetcode-questions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1018-largest-perimeter-triangle](https://github.com/Shivendra-11/leetcode-questions/tree/master/1018-largest-perimeter-triangle) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/Shivendra-11/leetcode-questions/tree/master/1635-number-of-good-pairs) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Shivendra-11/leetcode-questions/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -401,6 +404,7 @@ made changes
 | [0724-find-pivot-index](https://github.com/Shivendra-11/leetcode-questions/tree/master/0724-find-pivot-index) |
 | [1184-car-pooling](https://github.com/Shivendra-11/leetcode-questions/tree/master/1184-car-pooling) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Shivendra-11/leetcode-questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Shivendra-11/leetcode-questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
