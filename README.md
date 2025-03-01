@@ -114,6 +114,7 @@ made changes
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Shivendra-11/leetcode-questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Shivendra-11/leetcode-questions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Shivendra-11/leetcode-questions/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2551-apply-operations-to-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2551-apply-operations-to-an-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Shivendra-11/leetcode-questions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shivendra-11/leetcode-questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Shivendra-11/leetcode-questions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -200,6 +201,7 @@ made changes
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Shivendra-11/leetcode-questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Shivendra-11/leetcode-questions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Shivendra-11/leetcode-questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2551-apply-operations-to-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2551-apply-operations-to-an-array) |
 | [3195-separate-black-and-white-balls](https://github.com/Shivendra-11/leetcode-questions/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
 |  |
@@ -434,6 +436,7 @@ made changes
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Shivendra-11/leetcode-questions/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Shivendra-11/leetcode-questions/tree/master/1657-find-the-winner-of-an-array-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Shivendra-11/leetcode-questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2551-apply-operations-to-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2551-apply-operations-to-an-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Shivendra-11/leetcode-questions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/Shivendra-11/leetcode-questions/tree/master/3447-clear-digits) |
