@@ -240,6 +240,7 @@ made changes
 | [0012-integer-to-roman](https://github.com/Shivendra-11/leetcode-questions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Shivendra-11/leetcode-questions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Shivendra-11/leetcode-questions/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/Shivendra-11/leetcode-questions/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/Shivendra-11/leetcode-questions/tree/master/0415-add-strings) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Shivendra-11/leetcode-questions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1018-largest-perimeter-triangle](https://github.com/Shivendra-11/leetcode-questions/tree/master/1018-largest-perimeter-triangle) |
@@ -534,6 +535,7 @@ made changes
 | [0021-merge-two-sorted-lists](https://github.com/Shivendra-11/leetcode-questions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Shivendra-11/leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Shivendra-11/leetcode-questions/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Shivendra-11/leetcode-questions/tree/master/0326-power-of-three) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Shivendra-11/leetcode-questions/tree/master/0795-k-th-symbol-in-grammar) |
 ## Design
 |  |
