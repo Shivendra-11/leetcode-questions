@@ -121,6 +121,7 @@ made changes
 | [2691-count-vowel-strings-in-ranges](https://github.com/Shivendra-11/leetcode-questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shivendra-11/leetcode-questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Shivendra-11/leetcode-questions/tree/master/2792-neighboring-bitwise-xor) |
+| [3227-find-missing-and-repeated-values](https://github.com/Shivendra-11/leetcode-questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Shivendra-11/leetcode-questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -252,6 +253,7 @@ made changes
 | [2448-count-number-of-bad-pairs](https://github.com/Shivendra-11/leetcode-questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Shivendra-11/leetcode-questions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Shivendra-11/leetcode-questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/Shivendra-11/leetcode-questions/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -365,6 +367,7 @@ made changes
 | [2448-count-number-of-bad-pairs](https://github.com/Shivendra-11/leetcode-questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shivendra-11/leetcode-questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shivendra-11/leetcode-questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/Shivendra-11/leetcode-questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Shivendra-11/leetcode-questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Shivendra-11/leetcode-questions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
@@ -513,6 +516,7 @@ made changes
 | [1253-sort-the-matrix-diagonally](https://github.com/Shivendra-11/leetcode-questions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shivendra-11/leetcode-questions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Shivendra-11/leetcode-questions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [3227-find-missing-and-repeated-values](https://github.com/Shivendra-11/leetcode-questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Shivendra-11/leetcode-questions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Linked List
 |  |
