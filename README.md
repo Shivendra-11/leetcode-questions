@@ -93,6 +93,7 @@ made changes
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Shivendra-11/leetcode-questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Shivendra-11/leetcode-questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Shivendra-11/leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Shivendra-11/leetcode-questions/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Shivendra-11/leetcode-questions/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shivendra-11/leetcode-questions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -251,6 +252,7 @@ made changes
 | [1635-number-of-good-pairs](https://github.com/Shivendra-11/leetcode-questions/tree/master/1635-number-of-good-pairs) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Shivendra-11/leetcode-questions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Shivendra-11/leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Shivendra-11/leetcode-questions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Shivendra-11/leetcode-questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Shivendra-11/leetcode-questions/tree/master/2649-count-total-number-of-colored-cells) |
@@ -451,6 +453,7 @@ made changes
 | [1184-car-pooling](https://github.com/Shivendra-11/leetcode-questions/tree/master/1184-car-pooling) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Shivendra-11/leetcode-questions/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Shivendra-11/leetcode-questions/tree/master/1657-find-the-winner-of-an-array-game) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Shivendra-11/leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Shivendra-11/leetcode-questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Shivendra-11/leetcode-questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2551-apply-operations-to-an-array) |
@@ -462,6 +465,7 @@ made changes
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Shivendra-11/leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Shivendra-11/leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Shivendra-11/leetcode-questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
@@ -546,6 +550,7 @@ made changes
 | [0234-palindrome-linked-list](https://github.com/Shivendra-11/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Shivendra-11/leetcode-questions/tree/master/0326-power-of-three) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Shivendra-11/leetcode-questions/tree/master/0795-k-th-symbol-in-grammar) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Shivendra-11/leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Design
 |  |
 | ------- |
