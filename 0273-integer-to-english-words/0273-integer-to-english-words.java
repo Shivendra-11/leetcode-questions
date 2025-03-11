@@ -1,6 +1,6 @@
 class Solution {
     private static final Map<Integer, String> belowTen = Map.of(
-            0, "", 1, "One", 2, "Two", 3, "Three", 4, "Four", 5, "Five",
+            0, "Zero", 1, "One", 2, "Two", 3, "Three", 4, "Four", 5, "Five",
             6, "Six", 7, "Seven", 8, "Eight", 9, "Nine");
 
     private static final Map<Integer, String> belowTwenty = Map.of(
@@ -40,9 +40,7 @@ class Solution {
     }
 
     public String numberToWords(int num) {
-        if (num == 0) {
-            return "Zero";
-        }
+      
         return solve(num);
     }
 }
