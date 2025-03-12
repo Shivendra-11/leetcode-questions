@@ -637,6 +637,7 @@ made changes
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/Shivendra-11/leetcode-questions/tree/master/0386-lexicographical-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -649,4 +650,8 @@ made changes
 |  |
 | ------- |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Shivendra-11/leetcode-questions/tree/master/2334-number-of-flowers-in-full-bloom) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Shivendra-11/leetcode-questions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
