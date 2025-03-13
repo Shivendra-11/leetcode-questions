@@ -6,7 +6,7 @@ class Solution {
         li.add(curr);
         for(int i=0;i<=9;i++){
             int newn=(curr*10)+i;
-            if(newn>n) {return;}
+            // if(newn>n) {return;}
             gen(li,n,newn);
         }
 
