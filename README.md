@@ -263,6 +263,7 @@ made changes
 | [2649-count-total-number-of-colored-cells](https://github.com/Shivendra-11/leetcode-questions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Shivendra-11/leetcode-questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shivendra-11/leetcode-questions/tree/master/3227-find-missing-and-repeated-values) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
 |  |
 | ------- |
@@ -467,6 +468,7 @@ made changes
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Shivendra-11/leetcode-questions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/Shivendra-11/leetcode-questions/tree/master/3447-clear-digits) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
 |  |
 | ------- |
@@ -503,6 +505,7 @@ made changes
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shivendra-11/leetcode-questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Shivendra-11/leetcode-questions/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting
 |  |
 | ------- |
@@ -561,6 +564,7 @@ made changes
 | [0326-power-of-three](https://github.com/Shivendra-11/leetcode-questions/tree/master/0326-power-of-three) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Shivendra-11/leetcode-questions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shivendra-11/leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |
 | ------- |
