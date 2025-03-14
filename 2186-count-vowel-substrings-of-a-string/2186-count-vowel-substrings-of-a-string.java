@@ -1,28 +1,22 @@
-import java.util.*;
-
 class Solution {
     public static boolean finds(String s) {
-        if (s.length() < 5) { // Must contain at least all vowels
+        if (s.length() < 5) {
             return false;
         }
-        
-        // Use a HashSet to track vowels
-        Set<Character> set = new HashSet<>();
+        HashSet<Character> st = new HashSet<>();
         for (char ch : s.toCharArray()) {
-            if ("aeiou".indexOf(ch) == -1) { // Non-vowel character found
+            if ("aeiou".indexOf(ch) == -1) {
                 return false;
             }
-            set.add(ch);
+            st.add(ch);
         }
-        return set.size() == 5; // Check if all vowels are present
+        return st.size() == 5;
     }
 
     public int countVowelSubstrings(String word) {
         int c = 0;
-        int n = word.length();
-        
-        for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j <= n; j++) { // Fix substring range
+        for (int i = 0; i < word.length(); i++) {
+            for (int j = i + 1; j <=word.length(); j++) {
                 String w = word.substring(i, j);
                 if (finds(w)) {
                     c++;
@@ -30,10 +24,5 @@ class Solution {
             }
         }
         return c;
-    }
-
-    public static void main(String[] args) {
-        Solution sol = new Solution();
-        System.out.println(sol.countVowelSubstrings("aeiouaeiou"));
     }
 }
