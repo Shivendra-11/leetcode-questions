@@ -41,6 +41,7 @@ made changes
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Shivendra-11/leetcode-questions/tree/master/0228-summary-ranges) |
+| [0274-h-index](https://github.com/Shivendra-11/leetcode-questions/tree/master/0274-h-index) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shivendra-11/leetcode-questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Shivendra-11/leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -274,6 +275,7 @@ made changes
 | [0049-group-anagrams](https://github.com/Shivendra-11/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Shivendra-11/leetcode-questions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/Shivendra-11/leetcode-questions/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/Shivendra-11/leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shivendra-11/leetcode-questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0645-set-mismatch](https://github.com/Shivendra-11/leetcode-questions/tree/master/0645-set-mismatch) |
@@ -598,6 +600,7 @@ made changes
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Shivendra-11/leetcode-questions/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0948-sort-an-array) |
 ## Backtracking
 |  |
