@@ -128,6 +128,7 @@ made changes
 | [3242-count-elements-with-maximum-frequency](https://github.com/Shivendra-11/leetcode-questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Shivendra-11/leetcode-questions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3429-special-array-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Shivendra-11/leetcode-questions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -383,6 +384,7 @@ made changes
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shivendra-11/leetcode-questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shivendra-11/leetcode-questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Shivendra-11/leetcode-questions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Shivendra-11/leetcode-questions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Shivendra-11/leetcode-questions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
 |  |
@@ -507,6 +509,7 @@ made changes
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shivendra-11/leetcode-questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Shivendra-11/leetcode-questions/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Shivendra-11/leetcode-questions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting
 |  |
