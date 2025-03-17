@@ -72,6 +72,7 @@ made changes
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Shivendra-11/leetcode-questions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1319-unique-number-of-occurrences](https://github.com/Shivendra-11/leetcode-questions/tree/master/1319-unique-number-of-occurrences) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Shivendra-11/leetcode-questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Shivendra-11/leetcode-questions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/Shivendra-11/leetcode-questions/tree/master/1364-tuple-with-same-product) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Shivendra-11/leetcode-questions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -172,6 +173,7 @@ made changes
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Shivendra-11/leetcode-questions/tree/master/0907-koko-eating-bananas) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Shivendra-11/leetcode-questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shivendra-11/leetcode-questions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shivendra-11/leetcode-questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivendra-11/leetcode-questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
