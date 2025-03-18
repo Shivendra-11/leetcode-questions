@@ -16,7 +16,7 @@ class Solution {
           mask =(mask|nums[j]);
            j++;
         }
-
+        
         return res;
     }
 }
