@@ -29,6 +29,7 @@ made changes
 | [0074-search-a-2d-matrix](https://github.com/Shivendra-11/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Shivendra-11/leetcode-questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Shivendra-11/leetcode-questions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Shivendra-11/leetcode-questions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shivendra-11/leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Shivendra-11/leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0090-subsets-ii) |
@@ -316,6 +317,7 @@ made changes
 | [0020-valid-parentheses](https://github.com/Shivendra-11/leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shivendra-11/leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Shivendra-11/leetcode-questions/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Shivendra-11/leetcode-questions/tree/master/0079-word-search) |
 | [0187-repeated-dna-sequences](https://github.com/Shivendra-11/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shivendra-11/leetcode-questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Shivendra-11/leetcode-questions/tree/master/0273-integer-to-english-words) |
@@ -545,6 +547,7 @@ made changes
 | [0059-spiral-matrix-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Shivendra-11/leetcode-questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shivendra-11/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Shivendra-11/leetcode-questions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Shivendra-11/leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0777-toeplitz-matrix](https://github.com/Shivendra-11/leetcode-questions/tree/master/0777-toeplitz-matrix) |
 | [0864-image-overlap](https://github.com/Shivendra-11/leetcode-questions/tree/master/0864-image-overlap) |
@@ -622,6 +625,7 @@ made changes
 | [0047-permutations-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Shivendra-11/leetcode-questions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Shivendra-11/leetcode-questions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Shivendra-11/leetcode-questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0090-subsets-ii) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Shivendra-11/leetcode-questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Brainteaser
@@ -659,6 +663,7 @@ made changes
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Shivendra-11/leetcode-questions/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Shivendra-11/leetcode-questions/tree/master/0386-lexicographical-numbers) |
 ## Breadth-First Search
