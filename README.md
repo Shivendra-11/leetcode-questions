@@ -49,6 +49,7 @@ made changes
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shivendra-11/leetcode-questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/Shivendra-11/leetcode-questions/tree/master/0485-max-consecutive-ones) |
+| [0491-non-decreasing-subsequences](https://github.com/Shivendra-11/leetcode-questions/tree/master/0491-non-decreasing-subsequences) |
 | [0503-next-greater-element-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/Shivendra-11/leetcode-questions/tree/master/0605-can-place-flowers) |
@@ -376,6 +377,7 @@ made changes
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0491-non-decreasing-subsequences](https://github.com/Shivendra-11/leetcode-questions/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/Shivendra-11/leetcode-questions/tree/master/0645-set-mismatch) |
 | [0768-partition-labels](https://github.com/Shivendra-11/leetcode-questions/tree/master/0768-partition-labels) |
 | [1039-find-the-town-judge](https://github.com/Shivendra-11/leetcode-questions/tree/master/1039-find-the-town-judge) |
@@ -519,6 +521,7 @@ made changes
 | [0187-repeated-dna-sequences](https://github.com/Shivendra-11/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/Shivendra-11/leetcode-questions/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Shivendra-11/leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
+| [0491-non-decreasing-subsequences](https://github.com/Shivendra-11/leetcode-questions/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/Shivendra-11/leetcode-questions/tree/master/0645-set-mismatch) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Shivendra-11/leetcode-questions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1022-unique-paths-iii](https://github.com/Shivendra-11/leetcode-questions/tree/master/1022-unique-paths-iii) |
@@ -638,6 +641,7 @@ made changes
 | [0078-subsets](https://github.com/Shivendra-11/leetcode-questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Shivendra-11/leetcode-questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0090-subsets-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/Shivendra-11/leetcode-questions/tree/master/0491-non-decreasing-subsequences) |
 | [1022-unique-paths-iii](https://github.com/Shivendra-11/leetcode-questions/tree/master/1022-unique-paths-iii) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Shivendra-11/leetcode-questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Brainteaser
