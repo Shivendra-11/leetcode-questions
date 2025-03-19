@@ -67,6 +67,7 @@ made changes
 | [0948-sort-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0948-sort-an-array) |
 | [0979-di-string-match](https://github.com/Shivendra-11/leetcode-questions/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/Shivendra-11/leetcode-questions/tree/master/1018-largest-perimeter-triangle) |
+| [1022-unique-paths-iii](https://github.com/Shivendra-11/leetcode-questions/tree/master/1022-unique-paths-iii) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Shivendra-11/leetcode-questions/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1039-find-the-town-judge](https://github.com/Shivendra-11/leetcode-questions/tree/master/1039-find-the-town-judge) |
 | [1184-car-pooling](https://github.com/Shivendra-11/leetcode-questions/tree/master/1184-car-pooling) |
@@ -520,6 +521,7 @@ made changes
 | [0222-count-complete-tree-nodes](https://github.com/Shivendra-11/leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0645-set-mismatch](https://github.com/Shivendra-11/leetcode-questions/tree/master/0645-set-mismatch) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Shivendra-11/leetcode-questions/tree/master/0795-k-th-symbol-in-grammar) |
+| [1022-unique-paths-iii](https://github.com/Shivendra-11/leetcode-questions/tree/master/1022-unique-paths-iii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Shivendra-11/leetcode-questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Shivendra-11/leetcode-questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Shivendra-11/leetcode-questions/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -560,6 +562,7 @@ made changes
 | [0777-toeplitz-matrix](https://github.com/Shivendra-11/leetcode-questions/tree/master/0777-toeplitz-matrix) |
 | [0864-image-overlap](https://github.com/Shivendra-11/leetcode-questions/tree/master/0864-image-overlap) |
 | [0898-transpose-matrix](https://github.com/Shivendra-11/leetcode-questions/tree/master/0898-transpose-matrix) |
+| [1022-unique-paths-iii](https://github.com/Shivendra-11/leetcode-questions/tree/master/1022-unique-paths-iii) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Shivendra-11/leetcode-questions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shivendra-11/leetcode-questions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Shivendra-11/leetcode-questions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -635,6 +638,7 @@ made changes
 | [0078-subsets](https://github.com/Shivendra-11/leetcode-questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Shivendra-11/leetcode-questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0090-subsets-ii) |
+| [1022-unique-paths-iii](https://github.com/Shivendra-11/leetcode-questions/tree/master/1022-unique-paths-iii) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Shivendra-11/leetcode-questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Brainteaser
 |  |
