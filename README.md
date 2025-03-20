@@ -158,6 +158,7 @@ made changes
 | [0070-climbing-stairs](https://github.com/Shivendra-11/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Shivendra-11/leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivendra-11/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Shivendra-11/leetcode-questions/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shivendra-11/leetcode-questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0435-non-overlapping-intervals](https://github.com/Shivendra-11/leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -322,6 +323,7 @@ made changes
 | [0022-generate-parentheses](https://github.com/Shivendra-11/leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Shivendra-11/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Shivendra-11/leetcode-questions/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Shivendra-11/leetcode-questions/tree/master/0131-palindrome-partitioning) |
 | [0187-repeated-dna-sequences](https://github.com/Shivendra-11/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shivendra-11/leetcode-questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Shivendra-11/leetcode-questions/tree/master/0273-integer-to-english-words) |
@@ -644,6 +646,7 @@ made changes
 | [0078-subsets](https://github.com/Shivendra-11/leetcode-questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Shivendra-11/leetcode-questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Shivendra-11/leetcode-questions/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/Shivendra-11/leetcode-questions/tree/master/0491-non-decreasing-subsequences) |
 | [1022-unique-paths-iii](https://github.com/Shivendra-11/leetcode-questions/tree/master/1022-unique-paths-iii) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Shivendra-11/leetcode-questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
