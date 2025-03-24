@@ -42,6 +42,7 @@ made changes
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Shivendra-11/leetcode-questions/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/Shivendra-11/leetcode-questions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Shivendra-11/leetcode-questions/tree/master/0274-h-index) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shivendra-11/leetcode-questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Shivendra-11/leetcode-questions/tree/master/0435-non-overlapping-intervals) |
@@ -471,6 +472,7 @@ made changes
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/Shivendra-11/leetcode-questions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Shivendra-11/leetcode-questions/tree/master/0724-find-pivot-index) |
 | [1184-car-pooling](https://github.com/Shivendra-11/leetcode-questions/tree/master/1184-car-pooling) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/1537-maximum-score-after-splitting-a-string) |
