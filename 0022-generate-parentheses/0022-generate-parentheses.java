@@ -1,24 +1,29 @@
 class Solution {
-    public static void genr(StringBuilder s ,int left,int right,int n,ArrayList<String>ans){
-        if(left+right==2*n){
-            ans.add(s.toString());
-            return ;
+    public static void genrate(ArrayList<String> ans, int o, int c, StringBuilder str, int l) {
+        if ((o + c) == 2 * l) {
+            ans.add(str.toString());
+            return;
         }
-        if(left<n){
-            s.append("(");
-           genr(s,left+1,right,n,ans);
-           s.setLength(s.length()-1);
+        if (o < l) {
+            str.append('(');
+            genrate(ans, o + 1, c, str, l);
+            str.setLength(str.length() - 1);
+
         }
-         if(right<left){
-               s.append(")");
-            genr(s,left,right+1,n,ans);
-               s.setLength(s.length()-1);
+
+        if (c < o) {
+            str.append(')');
+            genrate(ans, o, c + 1, str, l);
+            str.setLength(str.length() - 1);
         }
 
     }
+
     public List<String> generateParenthesis(int n) {
-        ArrayList<String> ans=new ArrayList<>();
-        genr(new StringBuilder(),0,0,n,ans);
+        ArrayList<String> ans = new ArrayList<>();
+        StringBuilder str = new StringBuilder();
+        genrate(ans, 0, 0, str, n);
         return ans;
+
     }
 }
