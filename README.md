@@ -133,6 +133,7 @@ made changes
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shivendra-11/leetcode-questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shivendra-11/leetcode-questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Shivendra-11/leetcode-questions/tree/master/2665-minimum-time-to-repair-cars) |
+| [2681-put-marbles-in-bags](https://github.com/Shivendra-11/leetcode-questions/tree/master/2681-put-marbles-in-bags) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Shivendra-11/leetcode-questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shivendra-11/leetcode-questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Shivendra-11/leetcode-questions/tree/master/2792-neighboring-bitwise-xor) |
@@ -323,6 +324,7 @@ made changes
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shivendra-11/leetcode-questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Shivendra-11/leetcode-questions/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2681-put-marbles-in-bags](https://github.com/Shivendra-11/leetcode-questions/tree/master/2681-put-marbles-in-bags) |
 | [2887-sort-vowels-in-a-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3430-count-days-without-meetings](https://github.com/Shivendra-11/leetcode-questions/tree/master/3430-count-days-without-meetings) |
@@ -447,6 +449,7 @@ made changes
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Shivendra-11/leetcode-questions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shivendra-11/leetcode-questions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2681-put-marbles-in-bags](https://github.com/Shivendra-11/leetcode-questions/tree/master/2681-put-marbles-in-bags) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3195-separate-black-and-white-balls](https://github.com/Shivendra-11/leetcode-questions/tree/master/3195-separate-black-and-white-balls) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Shivendra-11/leetcode-questions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -458,6 +461,7 @@ made changes
 | [1184-car-pooling](https://github.com/Shivendra-11/leetcode-questions/tree/master/1184-car-pooling) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shivendra-11/leetcode-questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shivendra-11/leetcode-questions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2681-put-marbles-in-bags](https://github.com/Shivendra-11/leetcode-questions/tree/master/2681-put-marbles-in-bags) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Shivendra-11/leetcode-questions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Sliding Window
