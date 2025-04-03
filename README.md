@@ -45,6 +45,7 @@ made changes
 | [0238-product-of-array-except-self](https://github.com/Shivendra-11/leetcode-questions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Shivendra-11/leetcode-questions/tree/master/0274-h-index) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shivendra-11/leetcode-questions/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/Shivendra-11/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Shivendra-11/leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -156,6 +157,7 @@ made changes
 | [0053-maximum-subarray](https://github.com/Shivendra-11/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Shivendra-11/leetcode-questions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Shivendra-11/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -302,6 +304,7 @@ made changes
 | [0075-sort-colors](https://github.com/Shivendra-11/leetcode-questions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/Shivendra-11/leetcode-questions/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/Shivendra-11/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Shivendra-11/leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shivendra-11/leetcode-questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0645-set-mismatch](https://github.com/Shivendra-11/leetcode-questions/tree/master/0645-set-mismatch) |
@@ -397,6 +400,7 @@ made changes
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivendra-11/leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/Shivendra-11/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Shivendra-11/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Shivendra-11/leetcode-questions/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -461,6 +465,7 @@ made changes
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Shivendra-11/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0948-sort-an-array) |
 | [1184-car-pooling](https://github.com/Shivendra-11/leetcode-questions/tree/master/1184-car-pooling) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shivendra-11/leetcode-questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -574,6 +579,7 @@ made changes
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shivendra-11/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Shivendra-11/leetcode-questions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/Shivendra-11/leetcode-questions/tree/master/1364-tuple-with-same-product) |
@@ -656,6 +662,7 @@ made changes
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shivendra-11/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -697,6 +704,7 @@ made changes
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Shivendra-11/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 ## Interactive
 |  |
 | ------- |
