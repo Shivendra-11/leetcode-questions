@@ -103,6 +103,7 @@ made changes
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Shivendra-11/leetcode-questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shivendra-11/leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Shivendra-11/leetcode-questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Shivendra-11/leetcode-questions/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Shivendra-11/leetcode-questions/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shivendra-11/leetcode-questions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -286,6 +287,7 @@ made changes
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Shivendra-11/leetcode-questions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shivendra-11/leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Shivendra-11/leetcode-questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shivendra-11/leetcode-questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Shivendra-11/leetcode-questions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Shivendra-11/leetcode-questions/tree/master/2448-count-number-of-bad-pairs) |
@@ -564,6 +566,7 @@ made changes
 | [0795-k-th-symbol-in-grammar](https://github.com/Shivendra-11/leetcode-questions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1022-unique-paths-iii](https://github.com/Shivendra-11/leetcode-questions/tree/master/1022-unique-paths-iii) |
 | [1418-fair-distribution-of-cookies](https://github.com/Shivendra-11/leetcode-questions/tree/master/1418-fair-distribution-of-cookies) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Shivendra-11/leetcode-questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Shivendra-11/leetcode-questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Shivendra-11/leetcode-questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Shivendra-11/leetcode-questions/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -690,6 +693,7 @@ made changes
 | [0491-non-decreasing-subsequences](https://github.com/Shivendra-11/leetcode-questions/tree/master/0491-non-decreasing-subsequences) |
 | [1022-unique-paths-iii](https://github.com/Shivendra-11/leetcode-questions/tree/master/1022-unique-paths-iii) |
 | [1418-fair-distribution-of-cookies](https://github.com/Shivendra-11/leetcode-questions/tree/master/1418-fair-distribution-of-cookies) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Shivendra-11/leetcode-questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Shivendra-11/leetcode-questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Brainteaser
 |  |
@@ -751,4 +755,12 @@ made changes
 |  |
 | ------- |
 | [1418-fair-distribution-of-cookies](https://github.com/Shivendra-11/leetcode-questions/tree/master/1418-fair-distribution-of-cookies) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Shivendra-11/leetcode-questions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Shivendra-11/leetcode-questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
