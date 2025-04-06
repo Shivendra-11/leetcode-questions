@@ -1,40 +1,14 @@
 class Solution {
     public String reverseWords(String s) {
+       
+        String[] words = s.trim().split("\\s+");
+        StringBuilder res = new StringBuilder();
 
-        char[] charArray = s.toCharArray();
-        int n = charArray.length;
-        
-        // Reverse the entire character array
-        reverse(charArray, 0, n - 1);
-
-        int i = 0, l = 0, r = 0;
-
-        while (i < n) {
-            while (i < n && charArray[i] != ' ') {
-                charArray[r++] = charArray[i++];
-            }
-            if (l < r) {
-                reverse(charArray, l, r - 1);
-                if (r < n) { // Ensure there's space for adding a space
-                    charArray[r] = ' ';
-                    r++;
-                }
-                l = r;
-            }
-            i++;
+    
+        for (int i = words.length - 1; i >= 0; i--) {
+            res.append(words[i]);
+             res.append(" ");
         }
-        
-        // Remove the trailing space if there is one
-        return new String(charArray, 0,  charArray[r - 1] == ' ' ? r - 1 : r);
-    }
-
-    private void reverse(char[] arr, int start, int end) {
-        while (start < end) {
-            char temp = arr[start];
-            arr[start] = arr[end];
-            arr[end] = temp;
-            start++;
-            end--;
-        }
+        return res.toString().trim();
     }
 }
