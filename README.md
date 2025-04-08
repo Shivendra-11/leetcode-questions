@@ -151,6 +151,7 @@ made changes
 | [3430-count-days-without-meetings](https://github.com/Shivendra-11/leetcode-questions/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Shivendra-11/leetcode-questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Shivendra-11/leetcode-questions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Divide and Conquer
 |  |
@@ -439,6 +440,7 @@ made changes
 | [3242-count-elements-with-maximum-frequency](https://github.com/Shivendra-11/leetcode-questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Shivendra-11/leetcode-questions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Shivendra-11/leetcode-questions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Shivendra-11/leetcode-questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Greedy
 |  |
 | ------- |
