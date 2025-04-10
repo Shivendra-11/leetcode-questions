@@ -1,24 +1,24 @@
 class Solution {
     int max = 0;
 
-    public void robber(int nums[], int sum, int i, int dp[]) {
+    public int robber(int nums[], int i, int dp[]) {
         if (i >= nums.length) {
-            max = Math.max(max, sum);
-         
-            return;
+            return 0;
         }
-        if (dp[i]>=sum) return;
-        dp[i]=sum;
+      if(dp[i]!=-1){
+        return dp[i];
+      }
         
-        robber(nums, sum + nums[i], i + 2,dp);
-        robber(nums, sum, i + 1,dp);
+        int pick=nums[i]+robber(nums, i + 2,dp);
+        int skip=robber(nums,  i + 1,dp);
+        return dp[i]=Math.max(pick,skip);
 
     }
 
     public int rob(int[] nums) {
         int dp[] = new int[101];
         Arrays.fill(dp, -1);
-        robber(nums, 0, 0, dp);
-        return max;
+        return robber(nums, 0, dp);
+        // return max;
     }
 }
