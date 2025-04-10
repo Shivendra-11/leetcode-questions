@@ -7,18 +7,15 @@ class Solution {
         }
       if(dp[i]!=-1){
         return dp[i];
-      }
-        
+      }    
         int pick=nums[i]+robber(nums, i + 2,dp);
         int skip=robber(nums,  i + 1,dp);
         return dp[i]=Math.max(pick,skip);
-
     }
-
-    public int rob(int[] nums) {
-        int dp[] = new int[101];
+      public int rob(int[] nums) {
+        int dp[] = new int[nums.length+1];
         Arrays.fill(dp, -1);
         return robber(nums, 0, dp);
-        // return max;
+        
     }
 }
