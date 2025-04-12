@@ -109,6 +109,7 @@ made changes
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shivendra-11/leetcode-questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Shivendra-11/leetcode-questions/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Shivendra-11/leetcode-questions/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shivendra-11/leetcode-questions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shivendra-11/leetcode-questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -184,6 +185,7 @@ made changes
 | [1418-fair-distribution-of-cookies](https://github.com/Shivendra-11/leetcode-questions/tree/master/1418-fair-distribution-of-cookies) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Shivendra-11/leetcode-questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/2022-maximum-alternating-subsequence-sum) |
 ## Binary Search
 |  |
 | ------- |
