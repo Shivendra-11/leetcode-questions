@@ -4,8 +4,8 @@ class Solution {
             return 0;
         }
 
-        if (dp[i][prev+1]!= -1) {
-            return dp[i][prev+1];
+        if (prev!=-1&&dp[i][prev]!= -1) {
+            return dp[i][prev];
         }
 
         int take = 0;
@@ -15,7 +15,10 @@ class Solution {
         }
         int skip = find(nums, i + 1, prev,dp);
 
-        return dp[i][prev+1] = Math.max(take, skip);
+        if(prev!=-1){
+            dp[i][prev]=Math.max(take, skip);
+        }
+        return Math.max(take, skip);
     }
 
     public int lengthOfLIS(int[] nums) {
