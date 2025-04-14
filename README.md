@@ -95,6 +95,7 @@ made changes
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/Shivendra-11/leetcode-questions/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Shivendra-11/leetcode-questions/tree/master/1646-kth-missing-positive-number) |
+| [1656-count-good-triplets](https://github.com/Shivendra-11/leetcode-questions/tree/master/1656-count-good-triplets) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Shivendra-11/leetcode-questions/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Shivendra-11/leetcode-questions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Shivendra-11/leetcode-questions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -776,6 +777,7 @@ made changes
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/Shivendra-11/leetcode-questions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shivendra-11/leetcode-questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/Shivendra-11/leetcode-questions/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
