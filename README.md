@@ -46,6 +46,7 @@ made changes
 | [0228-summary-ranges](https://github.com/Shivendra-11/leetcode-questions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Shivendra-11/leetcode-questions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Shivendra-11/leetcode-questions/tree/master/0274-h-index) |
+| [0300-longest-increasing-subsequence](https://github.com/Shivendra-11/leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shivendra-11/leetcode-questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Shivendra-11/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Shivendra-11/leetcode-questions/tree/master/0435-non-overlapping-intervals) |
@@ -180,6 +181,7 @@ made changes
 | [0198-house-robber](https://github.com/Shivendra-11/leetcode-questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shivendra-11/leetcode-questions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0300-longest-increasing-subsequence](https://github.com/Shivendra-11/leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Shivendra-11/leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/Shivendra-11/leetcode-questions/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Shivendra-11/leetcode-questions/tree/master/1013-fibonacci-number) |
@@ -199,6 +201,7 @@ made changes
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Shivendra-11/leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/Shivendra-11/leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shivendra-11/leetcode-questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0882-peak-index-in-a-mountain-array) |
