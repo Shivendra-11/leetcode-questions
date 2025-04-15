@@ -1,7 +1,8 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
-        int maxlen=0;
+        int maxlen=1;
         int t[]=new int[nums.length];
+        Arrays.fill(t,1);
         for(int i=0;i<nums.length;i++){
             for(int j=0;j<i;j++){
                 if(nums[j]<nums[i]){
@@ -10,6 +11,6 @@ class Solution {
                 }
             }
         }
-        return maxlen+1;
+        return maxlen;
     }
 }
