@@ -355,6 +355,7 @@ made changes
 | [3291-find-if-array-can-be-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3430-count-days-without-meetings](https://github.com/Shivendra-11/leetcode-questions/tree/master/3430-count-days-without-meetings) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Shivendra-11/leetcode-questions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## String
 |  |
 | ------- |
@@ -405,6 +406,7 @@ made changes
 | [3447-clear-digits](https://github.com/Shivendra-11/leetcode-questions/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Shivendra-11/leetcode-questions/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Shivendra-11/leetcode-questions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -695,6 +697,7 @@ made changes
 | ------- |
 | [0274-h-index](https://github.com/Shivendra-11/leetcode-questions/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0948-sort-an-array) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Backtracking
 |  |
 | ------- |
