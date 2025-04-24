@@ -146,6 +146,7 @@ made changes
 | [2691-count-vowel-strings-in-ranges](https://github.com/Shivendra-11/leetcode-questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shivendra-11/leetcode-questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Shivendra-11/leetcode-questions/tree/master/2792-neighboring-bitwise-xor) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -452,6 +453,7 @@ made changes
 | [2448-count-number-of-bad-pairs](https://github.com/Shivendra-11/leetcode-questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shivendra-11/leetcode-questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shivendra-11/leetcode-questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shivendra-11/leetcode-questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Shivendra-11/leetcode-questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Shivendra-11/leetcode-questions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -511,6 +513,7 @@ made changes
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shivendra-11/leetcode-questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Shivendra-11/leetcode-questions/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Shivendra-11/leetcode-questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
