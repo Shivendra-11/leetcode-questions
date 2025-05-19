@@ -156,6 +156,7 @@ made changes
 | [3227-find-missing-and-repeated-values](https://github.com/Shivendra-11/leetcode-questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Shivendra-11/leetcode-questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3321-type-of-triangle](https://github.com/Shivendra-11/leetcode-questions/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Shivendra-11/leetcode-questions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3429-special-array-i) |
@@ -319,6 +320,7 @@ made changes
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Shivendra-11/leetcode-questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/Shivendra-11/leetcode-questions/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shivendra-11/leetcode-questions/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/Shivendra-11/leetcode-questions/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
 |  |
@@ -361,6 +363,7 @@ made changes
 | [2681-put-marbles-in-bags](https://github.com/Shivendra-11/leetcode-questions/tree/master/2681-put-marbles-in-bags) |
 | [2887-sort-vowels-in-a-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3321-type-of-triangle](https://github.com/Shivendra-11/leetcode-questions/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Shivendra-11/leetcode-questions/tree/master/3430-count-days-without-meetings) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Shivendra-11/leetcode-questions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3812-smallest-palindromic-rearrangement-i) |
