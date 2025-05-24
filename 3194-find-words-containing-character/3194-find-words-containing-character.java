@@ -4,15 +4,12 @@ class Solution {
         for(int i=0;i<words.length;i++){
             String wo=words[i];
            for(int j=0;j<wo.length();j++){
-
+            
             if(wo.charAt(j)==x){
                 li.add(i);
                 break;
             }
-
-
            }
-    
         }
         return li;
     }
