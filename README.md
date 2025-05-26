@@ -383,6 +383,7 @@ made changes
 | [0151-reverse-words-in-a-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Shivendra-11/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shivendra-11/leetcode-questions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0257-binary-tree-paths](https://github.com/Shivendra-11/leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/Shivendra-11/leetcode-questions/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -731,6 +732,7 @@ made changes
 | [0079-word-search](https://github.com/Shivendra-11/leetcode-questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Shivendra-11/leetcode-questions/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/Shivendra-11/leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0491-non-decreasing-subsequences](https://github.com/Shivendra-11/leetcode-questions/tree/master/0491-non-decreasing-subsequences) |
 | [1022-unique-paths-iii](https://github.com/Shivendra-11/leetcode-questions/tree/master/1022-unique-paths-iii) |
 | [1418-fair-distribution-of-cookies](https://github.com/Shivendra-11/leetcode-questions/tree/master/1418-fair-distribution-of-cookies) |
@@ -767,6 +769,7 @@ made changes
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Shivendra-11/leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/Shivendra-11/leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -775,6 +778,7 @@ made changes
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Shivendra-11/leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/Shivendra-11/leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -783,6 +787,7 @@ made changes
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivendra-11/leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Shivendra-11/leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/Shivendra-11/leetcode-questions/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
