@@ -106,6 +106,7 @@ made changes
 | [1755-defuse-the-bomb](https://github.com/Shivendra-11/leetcode-questions/tree/master/1755-defuse-the-bomb) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Shivendra-11/leetcode-questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Shivendra-11/leetcode-questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Shivendra-11/leetcode-questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shivendra-11/leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
