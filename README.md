@@ -38,6 +38,7 @@ made changes
 | [0136-single-number](https://github.com/Shivendra-11/leetcode-questions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Shivendra-11/leetcode-questions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Shivendra-11/leetcode-questions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0213-house-robber-ii) |
@@ -174,6 +175,7 @@ made changes
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shivendra-11/leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Shivendra-11/leetcode-questions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Shivendra-11/leetcode-questions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Shivendra-11/leetcode-questions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Shivendra-11/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
@@ -334,6 +336,7 @@ made changes
 | [0047-permutations-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Shivendra-11/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Shivendra-11/leetcode-questions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Shivendra-11/leetcode-questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/Shivendra-11/leetcode-questions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Shivendra-11/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
@@ -439,6 +442,7 @@ made changes
 | [0141-linked-list-cycle](https://github.com/Shivendra-11/leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivendra-11/leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Shivendra-11/leetcode-questions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Shivendra-11/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shivendra-11/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
@@ -627,6 +631,7 @@ made changes
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shivendra-11/leetcode-questions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Shivendra-11/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Shivendra-11/leetcode-questions/tree/master/1354-find-players-with-zero-or-one-losses) |
