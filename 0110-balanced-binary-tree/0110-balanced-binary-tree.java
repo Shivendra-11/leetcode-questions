@@ -1,20 +1,19 @@
+
 class Solution {
-    public static int height(TreeNode root){
-        if(root==null||(root.left==null&&root.right==null)){
-            return 0;
+     public static int heightfun(TreeNode root,boolean []valid){
+        if(root==null) return 0;
+        int l=heightfun(root.left,valid);
+        int r=heightfun(root.right,valid);
+
+        if(Math.abs(l-r)>1){
+            valid[0]=false;
         }
-        return 1+Math.max(height(root.left),height(root.right));
+        return 1+Math.max(l,r);
     }
     public boolean isBalanced(TreeNode root) {
-    if(root==null) return true;
-        int lh=height(root.left);
-        if(root.left!=null)lh++;
-        int rh=height(root.right);
-        if(root.right!=null)rh++;
-        int d=lh-rh;
-        if(d<0) d=-d;
-        if(d>1) return false;
-        return isBalanced(root.left)&&isBalanced(root.right);
-
+        boolean valid[]=new boolean[1];
+        valid[0]=true;
+        heightfun(root,valid);
+        return valid[0];
     }
 }
