@@ -783,6 +783,7 @@ made changes
 | [0226-invert-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Shivendra-11/leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -794,6 +795,7 @@ made changes
 | [0226-invert-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Shivendra-11/leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/1035-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -805,12 +807,14 @@ made changes
 | [0257-binary-tree-paths](https://github.com/Shivendra-11/leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/Shivendra-11/leetcode-questions/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/1035-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shivendra-11/leetcode-questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0226-invert-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/1035-cousins-in-binary-tree) |
 ## Union Find
 |  |
 | ------- |
