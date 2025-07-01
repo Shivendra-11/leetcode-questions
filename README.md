@@ -280,6 +280,7 @@ made changes
 | [0084-largest-rectangle-in-histogram](https://github.com/Shivendra-11/leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Shivendra-11/leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivendra-11/leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Shivendra-11/leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0232-implement-queue-using-stacks](https://github.com/Shivendra-11/leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Shivendra-11/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0503-next-greater-element-ii) |
@@ -678,6 +679,7 @@ made changes
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shivendra-11/leetcode-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Shivendra-11/leetcode-questions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shivendra-11/leetcode-questions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Shivendra-11/leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Shivendra-11/leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivendra-11/leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -787,6 +789,7 @@ made changes
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shivendra-11/leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shivendra-11/leetcode-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Shivendra-11/leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/Shivendra-11/leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Shivendra-11/leetcode-questions/tree/master/0257-binary-tree-paths) |
@@ -802,6 +805,7 @@ made changes
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shivendra-11/leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shivendra-11/leetcode-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Shivendra-11/leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/Shivendra-11/leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Shivendra-11/leetcode-questions/tree/master/0257-binary-tree-paths) |
@@ -815,6 +819,7 @@ made changes
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivendra-11/leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Shivendra-11/leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Shivendra-11/leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/Shivendra-11/leetcode-questions/tree/master/0386-lexicographical-numbers) |
