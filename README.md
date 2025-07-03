@@ -113,6 +113,7 @@ made changes
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Shivendra-11/leetcode-questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shivendra-11/leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shivendra-11/leetcode-questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Shivendra-11/leetcode-questions/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Shivendra-11/leetcode-questions/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
@@ -267,6 +268,7 @@ made changes
 | [0979-di-string-match](https://github.com/Shivendra-11/leetcode-questions/tree/master/0979-di-string-match) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Shivendra-11/leetcode-questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivendra-11/leetcode-questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Shivendra-11/leetcode-questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Shivendra-11/leetcode-questions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Shivendra-11/leetcode-questions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -362,6 +364,7 @@ made changes
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Shivendra-11/leetcode-questions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Shivendra-11/leetcode-questions/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1752-arithmetic-subarrays](https://github.com/Shivendra-11/leetcode-questions/tree/master/1752-arithmetic-subarrays) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Shivendra-11/leetcode-questions/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shivendra-11/leetcode-questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -508,6 +511,7 @@ made changes
 | [1018-largest-perimeter-triangle](https://github.com/Shivendra-11/leetcode-questions/tree/master/1018-largest-perimeter-triangle) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Shivendra-11/leetcode-questions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Shivendra-11/leetcode-questions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
