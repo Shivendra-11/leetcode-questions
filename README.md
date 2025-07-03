@@ -73,6 +73,7 @@ made changes
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Shivendra-11/leetcode-questions/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Shivendra-11/leetcode-questions/tree/master/0907-koko-eating-bananas) |
+| [0917-boats-to-save-people](https://github.com/Shivendra-11/leetcode-questions/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0948-sort-an-array) |
 | [0979-di-string-match](https://github.com/Shivendra-11/leetcode-questions/tree/master/0979-di-string-match) |
@@ -265,6 +266,7 @@ made changes
 | [0768-partition-labels](https://github.com/Shivendra-11/leetcode-questions/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/Shivendra-11/leetcode-questions/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Shivendra-11/leetcode-questions/tree/master/0908-middle-of-the-linked-list) |
+| [0917-boats-to-save-people](https://github.com/Shivendra-11/leetcode-questions/tree/master/0917-boats-to-save-people) |
 | [0979-di-string-match](https://github.com/Shivendra-11/leetcode-questions/tree/master/0979-di-string-match) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Shivendra-11/leetcode-questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivendra-11/leetcode-questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -353,6 +355,7 @@ made changes
 | [0645-set-mismatch](https://github.com/Shivendra-11/leetcode-questions/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Shivendra-11/leetcode-questions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0917-boats-to-save-people](https://github.com/Shivendra-11/leetcode-questions/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Shivendra-11/leetcode-questions/tree/master/1018-largest-perimeter-triangle) |
 | [1184-car-pooling](https://github.com/Shivendra-11/leetcode-questions/tree/master/1184-car-pooling) |
@@ -506,6 +509,7 @@ made changes
 | [0605-can-place-flowers](https://github.com/Shivendra-11/leetcode-questions/tree/master/0605-can-place-flowers) |
 | [0768-partition-labels](https://github.com/Shivendra-11/leetcode-questions/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0917-boats-to-save-people](https://github.com/Shivendra-11/leetcode-questions/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shivendra-11/leetcode-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/Shivendra-11/leetcode-questions/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/Shivendra-11/leetcode-questions/tree/master/1018-largest-perimeter-triangle) |
