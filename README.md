@@ -160,6 +160,7 @@ made changes
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/Shivendra-11/leetcode-questions/tree/master/3194-find-words-containing-character) |
+| [3212-count-the-number-of-good-partitions](https://github.com/Shivendra-11/leetcode-questions/tree/master/3212-count-the-number-of-good-partitions) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shivendra-11/leetcode-questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Shivendra-11/leetcode-questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/3291-find-if-array-can-be-sorted) |
@@ -335,6 +336,7 @@ made changes
 | [2715-k-items-with-the-maximum-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Shivendra-11/leetcode-questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/Shivendra-11/leetcode-questions/tree/master/2998-count-symmetric-integers) |
+| [3212-count-the-number-of-good-partitions](https://github.com/Shivendra-11/leetcode-questions/tree/master/3212-count-the-number-of-good-partitions) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shivendra-11/leetcode-questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Shivendra-11/leetcode-questions/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -492,6 +494,7 @@ made changes
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shivendra-11/leetcode-questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shivendra-11/leetcode-questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3212-count-the-number-of-good-partitions](https://github.com/Shivendra-11/leetcode-questions/tree/master/3212-count-the-number-of-good-partitions) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shivendra-11/leetcode-questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Shivendra-11/leetcode-questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Shivendra-11/leetcode-questions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -870,6 +873,7 @@ made changes
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shivendra-11/leetcode-questions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3212-count-the-number-of-good-partitions](https://github.com/Shivendra-11/leetcode-questions/tree/master/3212-count-the-number-of-good-partitions) |
 ## Enumeration
 |  |
 | ------- |
