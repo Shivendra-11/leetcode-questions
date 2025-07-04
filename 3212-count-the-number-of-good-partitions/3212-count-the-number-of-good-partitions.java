@@ -6,22 +6,22 @@ class Solution {
             mp.put(nums[i], i);
         }
         int M=1000000007;
-        
         int i = 0;
-        int res = 1;
+        long res = 1;
         int n = nums.length;
         int j = 0;
         
+        j = Math.max(j, mp.get(nums[0]));
+        
         while (i < n) {
-            j = Math.max(j, mp.get(nums[i]));
-            
-            if (i == j && i != n - 1) {
-                res =(int) ((res * 2L) % M);
+            if (j < i) {
+                res = (int)((res * 2L) % M);
+                j = i;
             }
-            
+            j = Math.max(j, mp.get(nums[i]));
             i++;
         }
         
-        return  res;
+        return (int) res;
     }
 }
