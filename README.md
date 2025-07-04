@@ -77,6 +77,7 @@ made changes
 | [0932-monotonic-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0948-sort-an-array) |
 | [0979-di-string-match](https://github.com/Shivendra-11/leetcode-questions/tree/master/0979-di-string-match) |
+| [1002-maximum-width-ramp](https://github.com/Shivendra-11/leetcode-questions/tree/master/1002-maximum-width-ramp) |
 | [1018-largest-perimeter-triangle](https://github.com/Shivendra-11/leetcode-questions/tree/master/1018-largest-perimeter-triangle) |
 | [1022-unique-paths-iii](https://github.com/Shivendra-11/leetcode-questions/tree/master/1022-unique-paths-iii) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Shivendra-11/leetcode-questions/tree/master/1027-sum-of-even-numbers-after-queries) |
@@ -269,6 +270,7 @@ made changes
 | [0908-middle-of-the-linked-list](https://github.com/Shivendra-11/leetcode-questions/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Shivendra-11/leetcode-questions/tree/master/0917-boats-to-save-people) |
 | [0979-di-string-match](https://github.com/Shivendra-11/leetcode-questions/tree/master/0979-di-string-match) |
+| [1002-maximum-width-ramp](https://github.com/Shivendra-11/leetcode-questions/tree/master/1002-maximum-width-ramp) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Shivendra-11/leetcode-questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivendra-11/leetcode-questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -295,6 +297,7 @@ made changes
 | [0780-max-chunks-to-make-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0874-backspace-string-compare](https://github.com/Shivendra-11/leetcode-questions/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shivendra-11/leetcode-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/Shivendra-11/leetcode-questions/tree/master/1002-maximum-width-ramp) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Shivendra-11/leetcode-questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Shivendra-11/leetcode-questions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3447-clear-digits](https://github.com/Shivendra-11/leetcode-questions/tree/master/3447-clear-digits) |
@@ -306,6 +309,7 @@ made changes
 | [0085-maximal-rectangle](https://github.com/Shivendra-11/leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/0780-max-chunks-to-make-sorted) |
+| [1002-maximum-width-ramp](https://github.com/Shivendra-11/leetcode-questions/tree/master/1002-maximum-width-ramp) |
 ## Math
 |  |
 | ------- |
