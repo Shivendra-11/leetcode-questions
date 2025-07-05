@@ -282,6 +282,7 @@ made changes
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Shivendra-11/leetcode-questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2551-apply-operations-to-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2551-apply-operations-to-an-array) |
 | [3195-separate-black-and-white-balls](https://github.com/Shivendra-11/leetcode-questions/tree/master/3195-separate-black-and-white-balls) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Stack
 |  |
 | ------- |
@@ -448,6 +449,7 @@ made changes
 | [3447-clear-digits](https://github.com/Shivendra-11/leetcode-questions/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Shivendra-11/leetcode-questions/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Shivendra-11/leetcode-questions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Hash Table
@@ -899,6 +901,7 @@ made changes
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shivendra-11/leetcode-questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Shivendra-11/leetcode-questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Shivendra-11/leetcode-questions/tree/master/2998-count-symmetric-integers) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Search Tree
 |  |
 | ------- |
