@@ -801,6 +801,7 @@ made changes
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivendra-11/leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shivendra-11/leetcode-questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shivendra-11/leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -820,6 +821,7 @@ made changes
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivendra-11/leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shivendra-11/leetcode-questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shivendra-11/leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -840,6 +842,7 @@ made changes
 | ------- |
 | [0079-word-search](https://github.com/Shivendra-11/leetcode-questions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivendra-11/leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Shivendra-11/leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -888,6 +891,7 @@ made changes
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Shivendra-11/leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0784-insert-into-a-binary-search-tree) |
