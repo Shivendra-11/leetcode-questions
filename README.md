@@ -374,6 +374,7 @@ made changes
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Shivendra-11/leetcode-questions/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Shivendra-11/leetcode-questions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Shivendra-11/leetcode-questions/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Shivendra-11/leetcode-questions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivendra-11/leetcode-questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Shivendra-11/leetcode-questions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Shivendra-11/leetcode-questions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -829,6 +830,7 @@ made changes
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Shivendra-11/leetcode-questions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1035-cousins-in-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivendra-11/leetcode-questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Shivendra-11/leetcode-questions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -854,6 +856,7 @@ made changes
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Shivendra-11/leetcode-questions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1035-cousins-in-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivendra-11/leetcode-questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Shivendra-11/leetcode-questions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -872,6 +875,7 @@ made changes
 | [0543-diameter-of-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Shivendra-11/leetcode-questions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1035-cousins-in-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/1035-cousins-in-binary-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Shivendra-11/leetcode-questions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -922,4 +926,5 @@ made changes
 | [0784-insert-into-a-binary-search-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Shivendra-11/leetcode-questions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivendra-11/leetcode-questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Shivendra-11/leetcode-questions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
