@@ -176,6 +176,7 @@ made changes
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Shivendra-11/leetcode-questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Shivendra-11/leetcode-questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Shivendra-11/leetcode-questions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -542,6 +543,7 @@ made changes
 | [2681-put-marbles-in-bags](https://github.com/Shivendra-11/leetcode-questions/tree/master/2681-put-marbles-in-bags) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3195-separate-black-and-white-balls](https://github.com/Shivendra-11/leetcode-questions/tree/master/3195-separate-black-and-white-balls) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Shivendra-11/leetcode-questions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Heap (Priority Queue)
@@ -917,6 +919,7 @@ made changes
 | [2215-finding-3-digit-even-numbers](https://github.com/Shivendra-11/leetcode-questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Shivendra-11/leetcode-questions/tree/master/2998-count-symmetric-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
