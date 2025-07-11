@@ -1,7 +1,6 @@
 class Solution {
     public int maxFreeTime(int eventTime, int[] startTime, int[] endTime) {
         ArrayList<Integer>li=new ArrayList<>();
-        int k=1;
          li.add(startTime[0]);
          for(int i=1;i<startTime.length;i++){
             li.add(startTime[i]-endTime[i-1]);
