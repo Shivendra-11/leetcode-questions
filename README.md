@@ -146,6 +146,7 @@ made changes
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Shivendra-11/leetcode-questions/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shivendra-11/leetcode-questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/Shivendra-11/leetcode-questions/tree/master/2478-longest-nice-subarray) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Shivendra-11/leetcode-questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Shivendra-11/leetcode-questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Shivendra-11/leetcode-questions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Shivendra-11/leetcode-questions/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -283,6 +284,7 @@ made changes
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Shivendra-11/leetcode-questions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Shivendra-11/leetcode-questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Shivendra-11/leetcode-questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Shivendra-11/leetcode-questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2551-apply-operations-to-an-array) |
 | [3195-separate-black-and-white-balls](https://github.com/Shivendra-11/leetcode-questions/tree/master/3195-separate-black-and-white-balls) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -393,6 +395,7 @@ made changes
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Shivendra-11/leetcode-questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shivendra-11/leetcode-questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Shivendra-11/leetcode-questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Shivendra-11/leetcode-questions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2681-put-marbles-in-bags](https://github.com/Shivendra-11/leetcode-questions/tree/master/2681-put-marbles-in-bags) |
 | [2887-sort-vowels-in-a-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/2887-sort-vowels-in-a-string) |
@@ -538,6 +541,7 @@ made changes
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/Shivendra-11/leetcode-questions/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Shivendra-11/leetcode-questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Shivendra-11/leetcode-questions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shivendra-11/leetcode-questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2681-put-marbles-in-bags](https://github.com/Shivendra-11/leetcode-questions/tree/master/2681-put-marbles-in-bags) |
