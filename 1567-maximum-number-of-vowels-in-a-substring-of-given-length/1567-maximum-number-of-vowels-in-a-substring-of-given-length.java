@@ -1,27 +1,27 @@
 class Solution {
     public int maxVowels(String s, int k) {
-        int maxi = Integer.MIN_VALUE;
         int i = 0;
         int j = 0;
         int n = s.length();
-        int c=0;
-      
+        int count = 0;
+        int maxi=0;
         while (j < n) {
-            // int c = 0;
-            if (s.charAt(j) == 'a' || s.charAt(j) == 'e' || s.charAt(j) == 'i' || s.charAt(j) == 'u'|| s.charAt(j) == 'o') {
-                c++;
+            char ch = s.charAt(j);
+            if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u') {
+                count++;
             }
             if (j - i + 1 == k) {
-          
-                maxi = Math.max(maxi, c);
-              
-               if (s.charAt(i) == 'a' || s.charAt(i) == 'e' || s.charAt(i) == 'i' || s.charAt(i) == 'u'|| s.charAt(i) == 'o'   ){
-                c--;
-               }
-                 i++;
+                maxi = Math.max(maxi, count);
+                char cp = s.charAt(i);
+                if (cp == 'a' || cp == 'e' || cp == 'i' || cp == 'o' || cp == 'u') {
+                    count--;
+                }
+                i++;
             }
             j++;
+
         }
         return maxi;
+
     }
 }
