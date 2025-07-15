@@ -456,6 +456,7 @@ made changes
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Shivendra-11/leetcode-questions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/Shivendra-11/leetcode-questions/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/Shivendra-11/leetcode-questions/tree/master/3195-separate-black-and-white-balls) |
+| [3396-valid-word](https://github.com/Shivendra-11/leetcode-questions/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/Shivendra-11/leetcode-questions/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Shivendra-11/leetcode-questions/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Shivendra-11/leetcode-questions/tree/master/3455-minimum-length-of-string-after-operations) |
