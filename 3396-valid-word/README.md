@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/valid-word">3396. Valid Word</a></h2><h3>Easy</h3><hr><p>A word is considered <strong>valid</strong> if:</p>
+<h2><a href="https://leetcode.com/problems/valid-word/description/?envType=daily-question&envId=2025-07-15">3396. Valid Word</a></h2><h3>Easy</h3><hr><p>A word is considered <strong>valid</strong> if:</p>
 
 <ul>
 	<li>It contains a <strong>minimum</strong> of 3 characters.</li>
