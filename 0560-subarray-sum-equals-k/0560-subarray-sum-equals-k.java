@@ -1,7 +1,7 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
         int prefix=0;
-        // int target=0;
+        
         int total=0;
   
         HashMap<Integer,Integer>mp=new HashMap<>();
@@ -14,8 +14,8 @@ class Solution {
 
             if(mp.containsKey(target)){
                 total +=mp.get(target);
-               
-            } mp.put(prefix, mp.getOrDefault(prefix, 0) + 1);
+            } 
+            mp.put(prefix, mp.getOrDefault(prefix, 0) + 1);
         }
         return total;
     }

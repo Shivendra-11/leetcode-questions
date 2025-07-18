@@ -61,6 +61,7 @@ made changes
 | [0491-non-decreasing-subsequences](https://github.com/Shivendra-11/leetcode-questions/tree/master/0491-non-decreasing-subsequences) |
 | [0503-next-greater-element-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Shivendra-11/leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Shivendra-11/leetcode-questions/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Shivendra-11/leetcode-questions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Shivendra-11/leetcode-questions/tree/master/0682-baseball-game) |
@@ -494,6 +495,7 @@ made changes
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/Shivendra-11/leetcode-questions/tree/master/0491-non-decreasing-subsequences) |
+| [0560-subarray-sum-equals-k](https://github.com/Shivendra-11/leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Shivendra-11/leetcode-questions/tree/master/0645-set-mismatch) |
 | [0768-partition-labels](https://github.com/Shivendra-11/leetcode-questions/tree/master/0768-partition-labels) |
@@ -596,6 +598,7 @@ made changes
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Shivendra-11/leetcode-questions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Shivendra-11/leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Shivendra-11/leetcode-questions/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shivendra-11/leetcode-questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/Shivendra-11/leetcode-questions/tree/master/1184-car-pooling) |
