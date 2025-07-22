@@ -87,6 +87,7 @@ made changes
 | [1039-find-the-town-judge](https://github.com/Shivendra-11/leetcode-questions/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shivendra-11/leetcode-questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivendra-11/leetcode-questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1127-last-stone-weight](https://github.com/Shivendra-11/leetcode-questions/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/Shivendra-11/leetcode-questions/tree/master/1184-car-pooling) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Shivendra-11/leetcode-questions/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -568,6 +569,7 @@ made changes
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Shivendra-11/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/Shivendra-11/leetcode-questions/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/Shivendra-11/leetcode-questions/tree/master/1184-car-pooling) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shivendra-11/leetcode-questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shivendra-11/leetcode-questions/tree/master/2616-maximal-score-after-applying-k-operations) |
