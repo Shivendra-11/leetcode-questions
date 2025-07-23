@@ -555,6 +555,7 @@ made changes
 | [2263-maximum-running-time-of-n-computers](https://github.com/Shivendra-11/leetcode-questions/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Shivendra-11/leetcode-questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2509-minimize-xor](https://github.com/Shivendra-11/leetcode-questions/tree/master/2509-minimize-xor) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Shivendra-11/leetcode-questions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shivendra-11/leetcode-questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2681-put-marbles-in-bags](https://github.com/Shivendra-11/leetcode-questions/tree/master/2681-put-marbles-in-bags) |
@@ -684,6 +685,7 @@ made changes
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Shivendra-11/leetcode-questions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Shivendra-11/leetcode-questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2478-longest-nice-subarray](https://github.com/Shivendra-11/leetcode-questions/tree/master/2478-longest-nice-subarray) |
+| [2509-minimize-xor](https://github.com/Shivendra-11/leetcode-questions/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Shivendra-11/leetcode-questions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shivendra-11/leetcode-questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Shivendra-11/leetcode-questions/tree/master/2792-neighboring-bitwise-xor) |
