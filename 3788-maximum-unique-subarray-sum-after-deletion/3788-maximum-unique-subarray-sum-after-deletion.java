@@ -1,17 +1,17 @@
 class Solution {
     public int maxSum(int[] nums) {
-        Arrays.sort(nums);
-        int maxi=Integer.MIN_VALUE;
+        HashSet<Integer>st=new HashSet<>();
         int sum=0;
-        for(int i=0;i<nums.length-1;i++){
-            if(nums[i]!=nums[i+1]){
-                sum+=nums[i];
-                maxi=Math.max(maxi,sum);
-            }
-            if(sum<0){
-                sum=0;
-            }
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]>0)
+            st.add(nums[i]);
         }
-        return sum+nums[nums.length-1];
+         if(st.isEmpty()){
+             return Arrays.stream(nums).max().getAsInt();
+         }
+        for(int a:st){
+            sum+=a;
+        }
+        return sum;
     }
 }
