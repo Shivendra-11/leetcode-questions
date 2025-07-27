@@ -180,6 +180,7 @@ made changes
 | [3429-special-array-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/Shivendra-11/leetcode-questions/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Shivendra-11/leetcode-questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Shivendra-11/leetcode-questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -603,6 +604,7 @@ made changes
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Shivendra-11/leetcode-questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Prefix Sum
 |  |
