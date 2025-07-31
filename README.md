@@ -148,6 +148,7 @@ made changes
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Shivendra-11/leetcode-questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Shivendra-11/leetcode-questions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Shivendra-11/leetcode-questions/tree/master/2448-count-number-of-bad-pairs) |
+| [2465-shifting-letters-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/2465-shifting-letters-ii) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Shivendra-11/leetcode-questions/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shivendra-11/leetcode-questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -462,6 +463,7 @@ made changes
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Shivendra-11/leetcode-questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shivendra-11/leetcode-questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2465-shifting-letters-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/2465-shifting-letters-ii) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Shivendra-11/leetcode-questions/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2580-circular-sentence](https://github.com/Shivendra-11/leetcode-questions/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Shivendra-11/leetcode-questions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -624,6 +626,7 @@ made changes
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Shivendra-11/leetcode-questions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Shivendra-11/leetcode-questions/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2358-number-of-ways-to-split-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/2465-shifting-letters-ii) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Shivendra-11/leetcode-questions/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Shivendra-11/leetcode-questions/tree/master/2538-minimum-cost-to-make-array-equal) |
