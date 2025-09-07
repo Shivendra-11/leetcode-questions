@@ -99,6 +99,7 @@ made changes
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Shivendra-11/leetcode-questions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1418-fair-distribution-of-cookies](https://github.com/Shivendra-11/leetcode-questions/tree/master/1418-fair-distribution-of-cookies) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shivendra-11/leetcode-questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Shivendra-11/leetcode-questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shivendra-11/leetcode-questions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Shivendra-11/leetcode-questions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -351,6 +352,7 @@ made changes
 | [1018-largest-perimeter-triangle](https://github.com/Shivendra-11/leetcode-questions/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shivendra-11/leetcode-questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shivendra-11/leetcode-questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Shivendra-11/leetcode-questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Shivendra-11/leetcode-questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/Shivendra-11/leetcode-questions/tree/master/1635-number-of-good-pairs) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
