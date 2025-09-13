@@ -80,6 +80,7 @@ made changes
 | [0932-monotonic-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/0948-sort-an-array) |
 | [0979-di-string-match](https://github.com/Shivendra-11/leetcode-questions/tree/master/0979-di-string-match) |
+| [0981-delete-columns-to-make-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/Shivendra-11/leetcode-questions/tree/master/1002-maximum-width-ramp) |
 | [1018-largest-perimeter-triangle](https://github.com/Shivendra-11/leetcode-questions/tree/master/1018-largest-perimeter-triangle) |
 | [1022-unique-paths-iii](https://github.com/Shivendra-11/leetcode-questions/tree/master/1022-unique-paths-iii) |
@@ -448,6 +449,7 @@ made changes
 | [0874-backspace-string-compare](https://github.com/Shivendra-11/leetcode-questions/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shivendra-11/leetcode-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/Shivendra-11/leetcode-questions/tree/master/0979-di-string-match) |
+| [0981-delete-columns-to-make-sorted](https://github.com/Shivendra-11/leetcode-questions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1160-letter-tile-possibilities](https://github.com/Shivendra-11/leetcode-questions/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/Shivendra-11/leetcode-questions/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/1302-delete-characters-to-make-fancy-string) |
