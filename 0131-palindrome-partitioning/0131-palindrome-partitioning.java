@@ -16,6 +16,7 @@ class Solution {
             res.add(new ArrayList<>(li));
             return;
         }
+        
         for (int i = idx; i < s.length(); i++) {
             if (palindrome(s, idx, i)) {
                 li.add(s.substring(idx, i + 1));
@@ -26,14 +27,11 @@ class Solution {
         }
 
     }
-
-
+    
     public List<List<String>> partition(String s) {
         List<List<String>> res = new ArrayList<>();
         List<String> li = new ArrayList<>();
         gen(s, 0, res, li);
         return res;
-    }
-
-    
+    }  
 }
