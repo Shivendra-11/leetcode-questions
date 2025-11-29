@@ -193,6 +193,7 @@ made changes
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Shivendra-11/leetcode-questions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Shivendra-11/leetcode-questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shivendra-11/leetcode-questions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -376,6 +377,7 @@ made changes
 | [3321-type-of-triangle](https://github.com/Shivendra-11/leetcode-questions/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Shivendra-11/leetcode-questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shivendra-11/leetcode-questions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
