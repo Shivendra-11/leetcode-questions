@@ -859,6 +859,7 @@ made changes
 ## Graph
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/Shivendra-11/leetcode-questions/tree/master/0801-is-graph-bipartite) |
 | [1039-find-the-town-judge](https://github.com/Shivendra-11/leetcode-questions/tree/master/1039-find-the-town-judge) |
 ## Quickselect
 |  |
@@ -944,6 +945,7 @@ made changes
 | [0513-find-bottom-left-tree-value](https://github.com/Shivendra-11/leetcode-questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Shivendra-11/leetcode-questions/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0801-is-graph-bipartite](https://github.com/Shivendra-11/leetcode-questions/tree/master/0801-is-graph-bipartite) |
 | [1035-cousins-in-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/1035-cousins-in-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Shivendra-11/leetcode-questions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
@@ -954,11 +956,13 @@ made changes
 | [0226-invert-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Shivendra-11/leetcode-questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Shivendra-11/leetcode-questions/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0801-is-graph-bipartite](https://github.com/Shivendra-11/leetcode-questions/tree/master/0801-is-graph-bipartite) |
 | [1035-cousins-in-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/1035-cousins-in-binary-tree) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shivendra-11/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
+| [0801-is-graph-bipartite](https://github.com/Shivendra-11/leetcode-questions/tree/master/0801-is-graph-bipartite) |
 ## Ordered Set
 |  |
 | ------- |
