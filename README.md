@@ -86,6 +86,7 @@ made changes
 | [1018-largest-perimeter-triangle](https://github.com/Shivendra-11/leetcode-questions/tree/master/1018-largest-perimeter-triangle) |
 | [1022-unique-paths-iii](https://github.com/Shivendra-11/leetcode-questions/tree/master/1022-unique-paths-iii) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Shivendra-11/leetcode-questions/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1036-rotting-oranges](https://github.com/Shivendra-11/leetcode-questions/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Shivendra-11/leetcode-questions/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shivendra-11/leetcode-questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivendra-11/leetcode-questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -759,6 +760,7 @@ made changes
 | [0864-image-overlap](https://github.com/Shivendra-11/leetcode-questions/tree/master/0864-image-overlap) |
 | [0898-transpose-matrix](https://github.com/Shivendra-11/leetcode-questions/tree/master/0898-transpose-matrix) |
 | [1022-unique-paths-iii](https://github.com/Shivendra-11/leetcode-questions/tree/master/1022-unique-paths-iii) |
+| [1036-rotting-oranges](https://github.com/Shivendra-11/leetcode-questions/tree/master/1036-rotting-oranges) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Shivendra-11/leetcode-questions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shivendra-11/leetcode-questions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shivendra-11/leetcode-questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -962,6 +964,7 @@ made changes
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Shivendra-11/leetcode-questions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/Shivendra-11/leetcode-questions/tree/master/0801-is-graph-bipartite) |
 | [1035-cousins-in-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/1035-cousins-in-binary-tree) |
+| [1036-rotting-oranges](https://github.com/Shivendra-11/leetcode-questions/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
