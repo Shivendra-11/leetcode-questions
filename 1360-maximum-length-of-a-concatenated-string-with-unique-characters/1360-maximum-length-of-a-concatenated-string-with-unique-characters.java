@@ -1,35 +1,51 @@
+import java.util.*;
+
 class Solution {
-    public static boolean hasduplicate(String temp,String s2){
-        int freq[]=new int[26];
-        for(int i=0;i<s2.length();i++){
-            if(freq[s2.charAt(i)-'a']>0){
+    Map<String, Integer> mp = new HashMap<>();
+
+    public boolean hasCommon(String s1, String s2) {
+        int[] freq = new int[26];
+
+       
+        for (char ch : s1.toCharArray()) {
+            if (freq[ch - 'a'] > 0)
                 return true;
-            }
-            freq[s2.charAt(i)-'a']++;
+            freq[ch - 'a']++;
         }
-        for(int i=0;i<temp.length();i++){
-            if(freq[temp.charAt(i)-'a']>0){
+
+        
+        for (char ch : s2.toCharArray()) {
+            if (freq[ch - 'a'] > 0)
                 return true;
-            }
         }
+
         return false;
     }
-    public static int ismax(List<String>arr,int i,String temp){
-        if(i>=arr.size()){
+
+    public int solve(int idx, List<String> arr, String temp, int n) {
+        if (idx >= n)
             return temp.length();
+
+        if (mp.containsKey(temp))
+            return mp.get(temp);
+
+        int include = 0;
+        int exclude;
+
+        if (hasCommon(arr.get(idx), temp)) {
+            exclude = solve(idx + 1, arr, temp, n);
+        } else {
+            exclude = solve(idx + 1, arr, temp, n);
+            include = solve(idx + 1, arr, temp + arr.get(idx), n);
         }
-        int include=0;
-        int exclude=0;
-        if(hasduplicate(temp,arr.get(i))){
-            exclude=ismax(arr,i+1,temp);
-        }else{
-            include=ismax(arr,i+1,temp+arr.get(i));
-            exclude=ismax(arr,i+1,temp);
-        }
-        return Math.max(include,exclude);
+
+        int ans = Math.max(include, exclude);
+        mp.put(temp, ans);
+        return ans;
     }
+
     public int maxLength(List<String> arr) {
-        String temp="";
-        return ismax(arr,0,temp);
+        mp.clear();
+        return solve(0, arr, "", arr.size());
     }
 }
