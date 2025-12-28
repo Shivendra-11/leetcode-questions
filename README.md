@@ -98,6 +98,7 @@ made changes
 | [1319-unique-number-of-occurrences](https://github.com/Shivendra-11/leetcode-questions/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Shivendra-11/leetcode-questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Shivendra-11/leetcode-questions/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Shivendra-11/leetcode-questions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1364-tuple-with-same-product](https://github.com/Shivendra-11/leetcode-questions/tree/master/1364-tuple-with-same-product) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Shivendra-11/leetcode-questions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1418-fair-distribution-of-cookies](https://github.com/Shivendra-11/leetcode-questions/tree/master/1418-fair-distribution-of-cookies) |
@@ -463,6 +464,7 @@ made changes
 | [1160-letter-tile-possibilities](https://github.com/Shivendra-11/leetcode-questions/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/Shivendra-11/leetcode-questions/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Shivendra-11/leetcode-questions/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Shivendra-11/leetcode-questions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Shivendra-11/leetcode-questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Shivendra-11/leetcode-questions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/Shivendra-11/leetcode-questions/tree/master/1524-string-matching-in-an-array) |
@@ -711,6 +713,7 @@ made changes
 | [0645-set-mismatch](https://github.com/Shivendra-11/leetcode-questions/tree/master/0645-set-mismatch) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Shivendra-11/leetcode-questions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1022-unique-paths-iii](https://github.com/Shivendra-11/leetcode-questions/tree/master/1022-unique-paths-iii) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Shivendra-11/leetcode-questions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1418-fair-distribution-of-cookies](https://github.com/Shivendra-11/leetcode-questions/tree/master/1418-fair-distribution-of-cookies) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shivendra-11/leetcode-questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Shivendra-11/leetcode-questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -850,6 +853,7 @@ made changes
 | [0491-non-decreasing-subsequences](https://github.com/Shivendra-11/leetcode-questions/tree/master/0491-non-decreasing-subsequences) |
 | [1022-unique-paths-iii](https://github.com/Shivendra-11/leetcode-questions/tree/master/1022-unique-paths-iii) |
 | [1160-letter-tile-possibilities](https://github.com/Shivendra-11/leetcode-questions/tree/master/1160-letter-tile-possibilities) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Shivendra-11/leetcode-questions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1418-fair-distribution-of-cookies](https://github.com/Shivendra-11/leetcode-questions/tree/master/1418-fair-distribution-of-cookies) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Shivendra-11/leetcode-questions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shivendra-11/leetcode-questions/tree/master/1993-sum-of-all-subset-xor-totals) |
