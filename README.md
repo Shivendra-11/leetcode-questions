@@ -224,6 +224,7 @@ made changes
 | [0213-house-robber-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shivendra-11/leetcode-questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/Shivendra-11/leetcode-questions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Shivendra-11/leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Shivendra-11/leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Shivendra-11/leetcode-questions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -355,6 +356,7 @@ made changes
 | [0241-different-ways-to-add-parentheses](https://github.com/Shivendra-11/leetcode-questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Shivendra-11/leetcode-questions/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/Shivendra-11/leetcode-questions/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Shivendra-11/leetcode-questions/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/Shivendra-11/leetcode-questions/tree/master/0415-add-strings) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Shivendra-11/leetcode-questions/tree/master/0795-k-th-symbol-in-grammar) |
@@ -968,6 +970,7 @@ made changes
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Shivendra-11/leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0226-invert-binary-tree](https://github.com/Shivendra-11/leetcode-questions/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/Shivendra-11/leetcode-questions/tree/master/0279-perfect-squares) |
 | [0513-find-bottom-left-tree-value](https://github.com/Shivendra-11/leetcode-questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Shivendra-11/leetcode-questions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/Shivendra-11/leetcode-questions/tree/master/0801-is-graph-bipartite) |
