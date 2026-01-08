@@ -25,6 +25,7 @@ made changes
 | [0053-maximum-subarray](https://github.com/Shivendra-11/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shivendra-11/leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Shivendra-11/leetcode-questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shivendra-11/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Shivendra-11/leetcode-questions/tree/master/0075-sort-colors) |
@@ -216,6 +217,7 @@ made changes
 | [0022-generate-parentheses](https://github.com/Shivendra-11/leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shivendra-11/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shivendra-11/leetcode-questions/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Shivendra-11/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Shivendra-11/leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivendra-11/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -760,6 +762,7 @@ made changes
 | [0048-rotate-image](https://github.com/Shivendra-11/leetcode-questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shivendra-11/leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Shivendra-11/leetcode-questions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Shivendra-11/leetcode-questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shivendra-11/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Shivendra-11/leetcode-questions/tree/master/0079-word-search) |
